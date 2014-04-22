@@ -1,4 +1,4 @@
-    ## Overview
+## Overview
 
     rstream replicates a fileset at a source machine to multiple target
     destinations with updates in near realtime. It is optimised for 
@@ -11,7 +11,7 @@
     at the source can distribute to multiple destinations, while the one at
     the destination can subscribe to updates from multiple sources.
 
-    ## Usage 
+## Usage 
 
     Server mode (run at source of data):
        rstream -l [args]
@@ -36,11 +36,11 @@
                              (specify multiple times to increase)
 
     
-    ## License
+## License
 
     Please see the LICENSE file included with the source code of this project for the terms of the Artistic License under which this project is licensed. This license is also found on the web at: http://dev.perl.org/licenses/artistic.html
 
-    ## 3rd Party packages not distributed with this project 
+## 3rd Party packages not distributed with this project 
 
     Rstream uses several 3rd party open source libraries and tools.
 
