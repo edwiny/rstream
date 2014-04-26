@@ -1,0 +1,4 @@
+total 0
+drwxrwx--- 1 root vboxsf 102 2014-04-23 16:52 ..
+-rwxrwx--- 1 root vboxsf   0 2014-04-23 16:52 topfile1.txt
+drwxrwx--- 1 root vboxsf 102 2014-04-23 16:52 .

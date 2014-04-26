@@ -55,7 +55,7 @@ $g_helpmsg = qq(
       -P --port portnum   : port to listen on or connect to
       -d --directory path : root of shared fileset
       -r --regex pattern  : only share files with names matching this
-      -s --stdout         : copy data to stdout (client mode)
+      -s --stdout         : copy data read from remote host to stdout (client mode)
       -z --compress       : use gzip compression for data in transit
       -c --checksum       : use SHA-1 digests to detect changes to files
                              Warning: slow for large files, or large numbers 
@@ -556,7 +556,7 @@ sub generate_file_list {
     }
 
   }
-  return(Y7::JSONLite::encode_hash_to_json(\%list));
+  return(Local::Rstream::JSONLite::encode_hash_to_json(\%list));
   
 }
 
@@ -566,7 +566,7 @@ sub queue_list_update {
   my $resp_data = generate_file_list(1);
   $resp_hdr{'s'} = length($resp_data);
   while (my ($fd, $c) = each(%g_clients)) {
-    client_queue_data($fd, Y7::JSONLite::encode_hash_to_json(\%resp_hdr));
+    client_queue_data($fd, Local::Rstream::JSONLite::encode_hash_to_json(\%resp_hdr));
     client_queue_data($fd, $resp_data, $resp_hdr{'s'});
   }
   log_msg(1, "File list changed - sent update");
@@ -644,7 +644,7 @@ sub process_client_request {
   }
   $req_text = $readbuf->get($tmppos + 1);
   log_msg(3, "process_client_request: got complete request [$req_text]");
-  $req_hash = Y7::JSONLite::decode_hash_from_json($req_text);
+  $req_hash = Local::Rstream::JSONLite::decode_hash_from_json($req_text);
   # initialise the hash contonain the response header
   %resp_hdr = ( 's' => 0, "st" => 0 );  # initliase status to fail (0)
   $resp_data = '';
@@ -669,7 +669,7 @@ sub process_client_request {
   if($resp_data) {
     $resp_hdr{'s'} = length($resp_data);
   }
-  client_queue_data($f, Y7::JSONLite::encode_hash_to_json(\%resp_hdr));
+  client_queue_data($f, Local::Rstream::JSONLite::encode_hash_to_json(\%resp_hdr));
   if($resp_data) {
     client_queue_data($f , $resp_data, $resp_hdr{'s'});
   }
@@ -740,7 +740,7 @@ sub process_downloads {  # return true if we actually did something
        log_msg(3, "process_downloads: download completed [$d->{filename}]");
 
        # notify client the download is complete
-       client_queue_data($d->{'client'}, Y7::JSONLite::encode_hash_to_json({ "p" => "s", "f" => $d->{'filename'}, "st" => STREAM_STATE_COMPLETE }));
+       client_queue_data($d->{'client'}, Local::Rstream::JSONLite::encode_hash_to_json({ "p" => "s", "f" => $d->{'filename'}, "st" => STREAM_STATE_COMPLETE }));
 
 
 
@@ -848,8 +848,8 @@ sub do_server {
 
 	# initialise the client data structure
 	my $tmp = { 'fh' => $client, 
-		    'writebuf' => Y7::IOBuffer->new(),
-		     'readbuf' => Y7::IOBuffer->new()
+		    'writebuf' => Local::Rstream::IOBuffer->new(),
+		     'readbuf' => Local::Rstream::IOBuffer->new()
 		  };
 	$tmp->{'writebuf'}->size(BUFFER_SIZE);
 	$tmp->{'readbuf'}->size(BUFFER_SIZE);
@@ -1072,7 +1072,7 @@ sub process_server_list_response {
   my $pkt      = shift @_;      # packet type
 
 
-  my $response_hash = Y7::JSONLite::decode_hash_from_json($response);
+  my $response_hash = Local::Rstream::JSONLite::decode_hash_from_json($response);
   if(!$response_hash) { 
     log_msg(0, "process_server_list_response: failed to parse JSON");
     return(0);
@@ -1120,7 +1120,7 @@ sub process_server_list_response {
 
 
     log_msg(2, "List item: [$conn->{'name'}:$fname]: " . 
-				  Y7::JSONLite::encode_hash_to_json($d));
+				  Local::Rstream::JSONLite::encode_hash_to_json($d));
     my $local_filename   = localise_filename($conn->{'name'}, $fname);
 
     if($rec) { # 1
@@ -1274,7 +1274,7 @@ sub process_server_response  {
     return(0);
   }
   $hdr_text = $readbuf->get($tmppos + 1);
-  $hdr = Y7::JSONLite::decode_hash_from_json($hdr_text);
+  $hdr = Local::Rstream::JSONLite::decode_hash_from_json($hdr_text);
   if(!$hdr || !defined($hdr->{'p'})) {
     log_msg(0, "process_server_response: failed to parse JSON");
     return(0);
@@ -1346,9 +1346,9 @@ sub do_client {
       $g_clnt_servers{$s}->{'fd'}      = $fd;
       $g_clnt_socks{$fd}->{'fh'}       = $server;
       $g_clnt_socks{$fd}->{'name'}     = $s;
-      $g_clnt_socks{$fd}->{'readbuf'}  = Y7::IOBuffer->new();
+      $g_clnt_socks{$fd}->{'readbuf'}  = Local::Rstream::IOBuffer->new();
       $g_clnt_socks{$fd}->{'readbuf'}->size(BUFFER_SIZE);
-      $g_clnt_socks{$fd}->{'writebuf'} = Y7::IOBuffer->new();
+      $g_clnt_socks{$fd}->{'writebuf'} = Local::Rstream::IOBuffer->new();
       $g_clnt_socks{$fd}->{'writebuf'}->size(BUFFER_SIZE);
       
       # immediately queue a LIST request to this server

@@ -1,0 +1,3039 @@
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9" lang="en"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]> <html lang="en"> <![endif]-->
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width">
+    <title>7News - Free Australian &amp; World News - Yahoo!7 News</title>
+        
+    
+
+        <link href='https://s.yimg.com/ao/i/mp/properties/tv/02/img/y7tv_114x114.png' rel='apple-touch-icon' media='all' sizes='114x114'>
+
+        <link href='https://s.yimg.com/ao/i/mp/properties/tv/02/img/y7tv_57x57.png' rel='apple-touch-icon' media='all' sizes='57x57'>
+
+      
+      
+
+
+    
+
+    
+    
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+ 
+    
+<script type="text/JavaScript">
+    var iCanRefresh=true;
+    videoEventListener = function( pType, pItem ) { 
+        switch (pType) {
+            case "onAdPlaybackComplete":
+            case "onPlaylistComplete":
+            case "onPlaybackComplete":
+            case "onPlaybackPause":
+            case "onPlaybackStop":
+            case "onPlayerReady":
+                iCanRefresh=true;
+                break;
+            case "onAdPlaybackStart":
+            case "onPlaybackResume":
+            case "onPlaybackStart":
+                iCanRefresh=false;
+                break;
+			default: 
+                iCanRefresh=true;
+				break;
+        }
+     }
+    setInterval("if(iCanRefresh) location.reload(true);", 300000);
+</script>
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+    
+    
+    <script>
+
+var y7data = {};
+var y7modules = [];
+var y7rapidTrackedMods = {};
+
+
+</script>
+<script type="text/javascript" src="https://s.yimg.com/zz/combo?yui-s:3.9.1/build/yui/yui-min.js&ao/i/mp/properties/multipass/js/modernizr/modernizr-base.s5230.js"></script>
+<script type="text/javascript" src="https://s.yimg.com/zz/combo?yui-s:3.9.1/build/array-extras/array-extras-min.js&yui-s:3.9.1/build/base-base/base-base-min.js&yui-s:3.9.1/build/base-build/base-build-min.js&yui-s:3.9.1/build/base-pluginhost/base-pluginhost-min.js&yui-s:3.9.1/build/event-base/event-base-min.js&yui-s:3.9.1/build/event-delegate/event-delegate-min.js&yui-s:3.9.1/build/event-flick/event-flick-min.js&yui-s:3.9.1/build/event-focus/event-focus-min.js&yui-s:3.9.1/build/event-hover/event-hover-min.js&yui-s:3.9.1/build/event-key/event-key-min.js&yui-s:3.9.1/build/event-mouseenter/event-mouseenter-min.js&yui-s:3.9.1/build/event-mousewheel/event-mousewheel-min.js&yui-s:3.9.1/build/event-move/event-move-min.js&yui-s:3.9.1/build/event-outside/event-outside-min.js&yui-s:3.9.1/build/event-resize/event-resize-min.js&yui-s:3.9.1/build/event-synthetic/event-synthetic-min.js&yui-s:3.9.1/build/event-touch/event-touch-min.js&yui-s:3.9.1/build/event-valuechange/event-valuechange-min.js&yui-s:3.9.1/build/get/get-min.js&yui-s:3.9.1/build/handlebars-compiler/handlebars-compiler-min.js&yui-s:3.9.1/build/jsonp/jsonp-min.js&yui-s:3.9.1/build/jsonp-url/jsonp-url-min.js&yui-s:3.9.1/build/node-base/node-base-min.js&yui-s:3.9.1/build/node-event-delegate/node-event-delegate-min.js&yui-s:3.9.1/build/node-event-simulate/node-event-simulate-min.js&yui-s:3.9.1/build/node-pluginhost/node-pluginhost-min.js&yui-s:3.9.1/build/node-screen/node-screen-min.js&yui-s:3.9.1/build/node-style/node-style-min.js&yui-s:3.9.1/build/plugin/plugin-min.js&yui-s:3.9.1/build/widget-base/widget-base-min.js&yui-s:3.9.1/build/widget-htmlparser/widget-htmlparser-min.js&yui-s:3.9.1/build/widget-skin/widget-skin-min.js&yui-s:3.9.1/build/widget-uievents/widget-uievents-min.js&ao/i/mp/properties/multipass/js/darla/darla.s5261.js&ao/i/mp/yui-modules/20140417_01-39-10/build/pop-over/pop-over-min.js&ao/i/mp/yui-modules/20140417_01-39-10/build/mail-count/mail-count-min.js&ao/i/mp/yui-modules/20140417_01-39-10/build/mail-preview/mail-preview-min.js"></script>
+<script type="text/javascript" src="https://s.yimg.com/zz/combo?ao/i/mp/yui-modules/20140417_01-39-10/build/vertical-search/vertical-search-min.js"></script>
+<script type="text/javascript" src="https://s.yimg.com/lq/lib/s7/miniassist-yui3-201009101433.js"></script>
+<link rel="stylesheet" type="text/css" href="https://s.yimg.com/zz/combo?ao/i/mp/multipass-styles/20140417_02-02-18/css/main-sass/main/main.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://s.yimg.com/zz/combo?ao/i/mp/multipass-styles/20140417_02-02-18/css/modules/hero-collection.css&ao/i/mp/multipass-styles/20140417_02-02-18/css/modules/main-quad.css&ao/i/mp/multipass-styles/20140417_02-02-18/css/modules/carousel-scroller.css&ao/i/mp/multipass-styles/20140417_02-02-18/css/modules/feature-section.css&ao/i/mp/multipass-styles/20140417_02-02-18/css/modules/accordion.css&ao/i/mp/multipass-styles/20140417_02-02-18/css/modules/moneyhound.css&ao/i/mp/multipass-styles/20140417_02-02-18/css/modules/weather-ulw.css&ao/i/mp/multipass-styles/20140417_02-02-18/css/modules/location-select.css&ao/i/mp/multipass-styles/20140417_02-02-18/css/modules/followus.css&ao/i/mp/multipass-styles/20140417_02-02-18/css/modules/flexitabs.css&ao/i/mp/multipass-styles/20140417_02-02-18/css/modules/feature-collection.css&ao/i/mp/multipass-styles/20140417_02-02-18/css/modules/notification-strap.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://s.yimg.com/zz/combo?ao/i/mp/multipass-styles/20140417_02-02-18/css/skins/news/news.css" media="all" />
+
+<link rel="stylesheet" type="text/css" href="https://s.yimg.com/rl/ulw/v3.0.1a//location_widget-min.css" />
+  </head>
+  <body  class="desktop device-large au">
+    
+ 	<div class="y7-advertisement"><div id="box-ENCR" style="height:auto"><div id="tgt-ENCR"><noscript>
+<!-- SpaceID=0 robot -->
+<!-- stripScript failed --></noscript></div></div></div>
+
+
+      <header class="universal-module universal-masthead" id="y7module-mp-uh">
+  <div class="header-inner">
+    <hgroup class="universal-header" role="banner">
+      <div class="uni-header-logo" id="y7-mp-ybng">
+        <a href="//au.yahoo.com/">Yahoo!7</a>
+      </div>
+      <div class="uni-header-property" id="y7-p-logo">
+        <a href="https://au.news.yahoo.com/">news</a>
+      </div>
+      <div id="y7-mp-uhsrch" class="uni-group uni-search">
+        <div class="module-header">
+          <a href="#">
+            <span class="label">Search</span>
+          </a>
+        </div>
+        <div class="module-content">
+          <form action="//au.search.yahoo.com/search" method="get">
+            <input type="hidden" name="fr" id="hidden" value="ush-news"/>
+            <input type="hidden" name="limprovider" value=""/>
+            <div class="searchfield">
+              <input type="search" name="p" id="sbx"/>
+              <div class="search-buttons">
+                <button class="search-web">Search Web</button>
+              </div>
+              <div id="sat" class="sa-tray"></div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </hgroup>
+    <div class="uni-nav-group popover" role="navigation"><nav class="uni-group main-nav popover" role="region" id="y7_mp_nav">
+  <div class="module-header">
+    <a href="#" class="rapidnofollow"><span class="label">Universal Navigation</span><!--[if IE 7]> <span class="ico-ie7">D</span> <![endif]--></a>
+  </div>
+  <div class="module-content">
+    <ol>
+      <li class="nav-item nav-item-1 first li-news">
+        <a href="//au.news.yahoo.com/">news</a>
+      </li>
+      <li class="nav-item nav-item-2 li-tv">
+        <a href="//au.tv.yahoo.com/">tv</a>
+      </li>
+      <li class="nav-item nav-item-3 li-finance">
+        <a href="//au.finance.yahoo.com/">finance</a>
+      </li>
+      <li class="nav-item nav-item-4 li-sport">
+        <a href="//au.sports.yahoo.com/">sport</a>
+      </li>
+      <li class="nav-item nav-item-5 li-lifestyle">
+        <a href="//au.lifestyle.yahoo.com/">lifestyle</a>
+      </li>
+      <li class="nav-item nav-item-6 li-entertainment">
+        <a href="//au.thehype.yahoo.com/">entertainment</a>
+      </li>
+      <li class="nav-item nav-item-7 li-games">
+        <a href="//au.games.yahoo.com/">games</a>
+      </li>
+      <li class="nav-item nav-item-8 li-travel">
+        <a href="//au.totaltravel.yahoo.com/">travel</a>
+      </li>
+      <li class="nav-item nav-item-9 li-real-estate">
+        <a href="//yahoo.realestate.com.au/buy">real estate</a>
+      </li>
+      <li class="nav-item nav-item-10 li-dating">
+        <a href="http://dating.yahoo.com.au/?TrackingID=527972&amp;BannerID=1851225">dating</a>
+      </li>
+      <li class="nav-item nav-item-11 li-ebay">
+        <a href="//rover.ebay.com/rover/1/705-8811-7528-392/4?mpre=http%3A%2F%2Fwww.ebay.com.au">eBay</a>
+      </li>
+      <li class="nav-item nav-item-12 last li-more">
+        <a href="//au.everything.yahoo.com/">more from y!7</a>
+      </li>
+    </ol>
+  </div>
+  <script type="text/javascript">
+
+y7rapidTrackedMods["y7_mp_nav"] = "uniheader_menu"; 
+
+</script>
+</nav><nav class="uni-group-alerts"></nav><div class="uni-group profile logged_out" id="y7_mp_ugp">
+  <div class="module-header">
+    <div class="yahoo-sign-in">
+      <span class="sign-in">
+        <a href="https://login.yahoo.com/config/login?.done=https%3A%2F%2Fau.news.yahoo.com%2F&amp;.intl=au&amp;.src=">Sign in</a>
+      </span>
+      <span class="sign-up">New here? <a href="https://edit.yahoo.com/config/eval_register?.done=https%3A%2F%2Fau.news.yahoo.com%2F&amp;.intl=au&amp;.src=">Sign up</a></span>
+    </div>
+  </div>
+  <script type="text/javascript">
+
+y7rapidTrackedMods["y7_mp_ugp"] = "uniheader_sign_in"; 
+
+</script>
+</div><div class="uni-group mail" id="y7_mp_mail">
+  <div class="module-header">
+    <a href="//mail.yahoo.com/" class="rapidnofollow"><span class="label">Mail</span><!--[if IE 7]> <span class="ico-ie7">m</span> <![endif]--></a>
+    <span class="count none">0</span>
+  </div>
+  <div class="module-content">
+    <script class="mail-preview-handlebars" type="text/x-handlebars-template">
+      <ul>{{#each query.results.result}}<li class="li-item {{isUnread messageInfo.flags.isRead}}}"><a href="http://mrd.mail.yahoo.com/msg?mid={{messageInfo.mid}}&amp;fid=Inbox"><span class="status"></span><span class="sender">{{messageInfo.from.name}}</span><span class="sender">{{maildate messageInfo.receivedDate}}}</span><p>{{messageInfo.subject}}</p></a></li>{{/each}}<li class="li-item li-5 last more-mail"><a href="//mail.yahoo.com/">View All Your Yahoo!7 Mail</a></li></ul>
+    </script>
+  </div>
+  <script type="text/javascript">
+
+y7rapidTrackedMods["y7_mp_mail"] = "uniheader_mail"; 
+
+</script>
+</div></div>
+  </div>
+  <script>
+y7modules.push({"id":"y7module-mp-uh","module":"miniassist","boundingBox":".universal-module","contentBox":".uni-search","config":{"selectable":true},"init":function (Y) {
+            new Y.Search.MiniAssist({
+                searchbox: '#sbx',
+                node: '#sat',
+                url: '//sugg.au.search.yahoo.net/gossip-au-say'});
+        }});
+y7modules.push({"id":"y7module-mp-uh","module":"vertical-search","boundingBox":".universal-module","contentBox":".uni-search","config":{"verticalSearchURL":"\/\/au.news.search.yahoo.com\/search","verticalSearchText":"News","verticalSearchFR":"news-au-ss"},"init":function (Y) {
+		var module = Y.one('#' + this.id),
+			    cb = module.one(this.contentBox),
+			    bb = module.one(this.boundingBox);
+
+			this.config.contentBox = cb;
+			this.config.boundingBox = bb;
+
+			// only instantiate vertical search if this property has a search URL
+			if( this.config.verticalSearchURL ) {
+				module.verticalSearch = new Y.VerticalSearch(this.config);
+				module.verticalSearch.render();
+			}
+        }});
+y7rapidTrackedMods["y7-mp-ybng"] = "uniheader_logo";
+y7rapidTrackedMods["y7-p-logo"] = "uniheader_property_link";
+y7rapidTrackedMods["y7-mp-uhsrch"] = "uniheader_search";
+</script>
+</header>
+	
+
+    <div id="page">
+      <section class="north masthead ">
+   <h1 id="mp-home" class="heading">
+  <a href="https://au.news.yahoo.com/">
+    <img src="https://s.yimg.com/ao/i/mp/properties/multipass/img/news/d_newslogo.g1379556027.png" alt="News"/>
+  </a>
+</h1><script>YAHOO = window.YAHOO || {};
+YAHOO.aunz = YAHOO.aunz || {};
+YAHOO.aunz.meta = YAHOO.aunz.meta || {};
+YAHOO.aunz.meta.crumb = "";
+y7rapidTrackedMods["mp-home"] = "header_logo";
+</script>  
+    
+
+
+
+
+
+
+
+    
+</section>
+<header class="module multipass-masthead-navigation property-header" id="y7module535763f6912f9"><nav class="main-nav" role="navigation" id="y7module-dropdown-nav">
+  <h5 class="screen-reader">
+    <a href="#skip-y7module-dropdown-nav">Skip navigation</a>
+  </h5>
+  <ol class="nav-set nav0 clearfix ">
+    <li class="nav-item nav-item-1 on first">
+      <a href="/">Home</a>
+    </li>
+    <li class="nav-item nav-item-2">
+      <a href="/nsw/">Sydney</a>
+    </li>
+    <li class="nav-item nav-item-3">
+      <a href="/vic/">Melbourne</a>
+    </li>
+    <li class="nav-item nav-item-4">
+      <a href="/qld/">Brisbane</a>
+    </li>
+    <li class="nav-item nav-item-5">
+      <a href="/sa/">Adelaide</a>
+    </li>
+    <li class="nav-item nav-item-6">
+      <a href="http://au.news.yahoo.com/thewest/">The West</a>
+    </li>
+    <li class="nav-item nav-item-7">
+      <a href="http://au.prime7.yahoo.com/">PRIME7</a>
+    </li>
+    <li class="nav-item nav-item-8 last hover-parent">
+      <a href="" class="hover-title">More</a>
+      <nav class="navigation inner-nav" role="navigation">
+        <ol class="inner-nav-set nav1">
+          <li class="inner-nav-item first">
+            <a href="http://au.finance.yahoo.com/">Finance</a>
+          </li>
+          <li class="inner-nav-item">
+            <a href="http://au.sports.yahoo.com/">Sport</a>
+          </li>
+          <li class="inner-nav-item last nav-morelist">
+            <a href="http://au.news.yahoo.com/sunday-night/">Sunday Night</a>
+          </li>
+        </ol>
+      </nav>
+    </li>
+  </ol>
+  <a id="skip-y7module-dropdown-nav" name="skip-y7module-dropdown-nav">
+    <!---->
+  </a>
+</nav><nav class="navigation sub-nav on" role="navigation">
+  <ol class="nav-list nav1">
+    <li class="inner-nav-item first">
+      <a href="/latest/">Latest</a>
+    </li>
+    <li class="inner-nav-item">
+      <a href="/video/">Videos</a>
+    </li>
+    <li class="inner-nav-item">
+      <a href="/galleries/">Photos</a>
+    </li>
+    <li class="inner-nav-item">
+      <a href="/world/">World</a>
+    </li>
+    <li class="inner-nav-item">
+      <a href="/entertainment/">Entertainment</a>
+    </li>
+    <li class="inner-nav-item">
+      <a href="/technology/">Tech</a>
+    </li>
+    <li class="inner-nav-item">
+      <a href="/odd/">Odd</a>
+    </li>
+    <li class="inner-nav-item">
+      <a href="/investigations/">Investigations</a>
+    </li>
+    <li class="inner-nav-item">
+      <a href="http://weather.yahoo.com.au/forecast">Weather</a>
+    </li>
+    <li class="inner-nav-item">
+      <a href="http://au.news.yahoo.com/contact/">Email 7News</a>
+    </li>
+    <li class="inner-nav-item last">
+      <a href="https://au.news.yahoo.com/royal-tour/">Royal Tour</a>
+    </li>
+  </ol>
+</nav><script type="text/javascript">
+
+y7rapidTrackedMods["y7module535763f6912f9"] = "header_nav"; 
+
+</script></header>
+
+
+      
+     
+     <div class="page-inner">
+     	  <div class="y7-advertisement"><div id="box-NT1" style="height:auto"><div id="tgt-NT1"><noscript>
+<!-- SpaceID=0 robot -->
+<!-- stripScript failed --></noscript></div></div></div>
+
+        
+        <div class="cluster">
+    <div class="row">
+        <div class="column-2-3">
+            <div class="module simpleimage simpleimage" role="region" id="y7module535763dfd16c2">
+  <div class="module-content">
+    <img src=""/>
+  </div>
+  <script type="text/javascript">
+
+y7rapidTrackedMods["y7module535763dfd16c2"] = "simple-image"; 
+
+</script>
+</div>
+<div class="hero-set hero-half clearfix alt-mobile" id="y7module5357640ce6fd5">
+  <div class="left"><section class="module aunz-hero-collection aunz-hero-collection-g">
+  <div class="has-img">
+    <figure class="asset-figure image-">
+      <a role="img" class="img-link" href="//au.news.yahoo.com/sa/a/22865957/royal-visit-to-elizabeth/">
+        <img src="https://s.yimg.com/iu/api/res/1.2/gvAYv2jIsowfeI52Ibi8Vg--/YXBwaWQ9eXZpZGVvO2ZpPWZpbGw7cT05MDtuPTE-/https://s.yimg.com/ea/img/-/140423/duchess_leads_19leg1o-19leg21.jpg" alt="Duchess on the decks"/>
+      </a>
+    </figure>
+    <section class="asset-summary">
+      <a href="//au.news.yahoo.com/sa/a/22865957/royal-visit-to-elizabeth/">
+        <div class="summary-header">
+          <header class="asset-header">
+            <h2 class="heading">Duchess on the decks</h2>
+          </header>
+        </div>
+        <div class="summary-content">
+          <p>The Duchess of Cambridge enjoys a crash course in using turntables during Adelaide tour.</p>
+        </div>
+      </a>
+    </section>
+  </div>
+</section></div>
+  <div class="right"><section class="module aunz-hero-collection aunz-hero-collection-i">
+  <div class="module-content asset">
+    <ol>
+      <li class="asset asset-1 first full-image clearfix">
+        <figure class="asset-figure image-">
+          <a role="img" class="img-link" href="//au.news.yahoo.com/vic/a/22873631/grieving-widow-tells-of-honeymoon-tragedy/">
+            <img src="https://s.yimg.com/iu/api/res/1.2/Fh7k4rtlBBBBK3ZeB6pVSw--/YXBwaWQ9eXZpZGVvO2ZpPWZpbGw7cT05MDtuPTE-/https://s.yimg.com/ea/img/-/140423/honeymoonhero2_19lefmp-19lefpf.jpg" alt="Grieving widow on honeymoon tragedy"/>
+            <figcaption class="caption">Grieving widow on honeymoon tragedy</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset asset-2 last full-image clearfix">
+        <figure class="asset-figure image-">
+          <a role="img" class="img-link" href="//au.news.yahoo.com/qld/a/22865773/police-retrace-murdered-womans-final-steps/">
+            <img src="https://s.yimg.com/iu/api/res/1.2/R8ApT3MqzEf8IYch9BEH4g--/YXBwaWQ9eXZpZGVvO2ZpPWZpbGw7cT05MDtuPTE-/https://s.yimg.com/ea/img/-/140423/spina_246_19le4nm-19le4nq.jpg" alt="Body found after weekend party"/>
+            <figcaption class="caption">Body found after weekend party</figcaption>
+          </a>
+        </figure>
+      </li>
+    </ol>
+  </div>
+</section></div>
+  <script type="text/javascript">
+
+y7rapidTrackedMods["y7module5357640ce6fd5"] = "hero_set_b"; 
+
+</script>
+</div>
+<section class="module main-quad" id="y7module5357640cf23c4">
+  <ol class="module-content asset clearfix">
+    <li class="asset asset-1 first has-img clearfix">
+      <header class="asset-header">
+        <h3 class="heading">
+          <a href="//au.news.yahoo.com/a/22868135/engine-vibration-grounds-qantas-jet/">Engine vibration grounds Qantas jet</a>
+        </h3>
+      </header>
+      <figure class="asset-figure image-">
+        <a role="img" class="img-link" href="//au.news.yahoo.com/a/22868135/engine-vibration-grounds-qantas-jet/">
+          <img src="https://s.yimg.com/iu/api/res/1.2/PK2RHtr2xrlSFhkf3Dc16Q--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTIxMDtoPTExODtkeD0xO2R5PTE7Y3c9Mzc0O2NoPTIxMDtxPTkwO249MQ--/https://s.yimg.com/ea/img/-/140423/qantas375_19lek92-19lek99.jpg" alt="Engine vibration grounds Qantas jet"/>
+        </a>
+      </figure>
+      <div class="asset-content">
+        <p>Engine is replaced on a Qantas passenger jet after engine vibration forces a Melbourne-bound flight to return to Hong Kong.</p>
+      </div>
+    </li>
+    <li class="asset asset-2 has-img clearfix">
+      <header class="asset-header">
+        <h3 class="heading">
+          <a href="//au.finance.yahoo.com/news/share-market-hits-near-six-023712158.html">Share market hits near six-year high</a>
+        </h3>
+      </header>
+      <figure class="asset-figure image-">
+        <a role="img" class="img-link" href="//au.finance.yahoo.com/news/share-market-hits-near-six-023712158.html">
+          <img src="https://s.yimg.com/iu/api/res/1.2/AHnbQJ6gfpQPLcpEgxdMiA--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTIxMDtoPTExODtkeD0xO2R5PTE7Y3c9Mzc0O2NoPTIxMDtxPTkwO249MQ--/https://s.yimg.com/ea/img/-/140423/shares375_19lejjq-19lejku.jpg" alt="Share market hits near six-year high"/>
+        </a>
+      </figure>
+      <div class="asset-content">
+        <p>Australian share market is trading higher in wake of another strong lead from markets in United States.</p>
+      </div>
+    </li>
+    <li class="asset asset-3 has-img clearfix clr-left">
+      <header class="asset-header">
+        <h3 class="heading">
+          <a href="//au.news.yahoo.com/a/22855538/un-warns-boat-turnbacks-no-long-term-fix/">Asteroid risk 'higher than thought'</a>
+        </h3>
+      </header>
+      <figure class="asset-figure image-">
+        <a role="img" class="img-link" href="//au.news.yahoo.com/a/22855538/un-warns-boat-turnbacks-no-long-term-fix/">
+          <img src="https://s.yimg.com/iu/api/res/1.2/k4VlOD74KodTFAx8vRl59A--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTIxMDtoPTExODtkeD0xO2R5PTE7Y3c9Mzc0O2NoPTIxMDtxPTkwO249MQ--/https://s.yimg.com/ea/img/-/140423/asteroid375_19lej29-19lej2g.jpg" alt="Asteroid risk 'higher than thought'"/>
+        </a>
+      </figure>
+      <div class="asset-content">
+        <p>Chance of city-killing asteroid striking Earth higher than scientists previously believed, one study says.</p>
+      </div>
+    </li>
+    <li class="asset asset-4 has-img clearfix">
+      <header class="asset-header">
+        <h3 class="heading">
+          <a href="//au.sports.yahoo.com/news/article/-/22875823/blues-confirm-marshalls-rugby-release/">Where next for Benji?</a>
+        </h3>
+      </header>
+      <figure class="asset-figure image-">
+        <a role="img" class="img-link" href="//au.sports.yahoo.com/news/article/-/22875823/blues-confirm-marshalls-rugby-release/">
+          <img src="https://s.yimg.com/iu/api/res/1.2/_bvpc2s4Tx9xRZ28GjDiyg--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTIxMDtoPTExODtkeD0xO2R5PTE7Y3c9Mzc0O2NoPTIxMDtxPTkwO249MQ--/https://s.yimg.com/ea/img/-/140423/benji375_19lejfv-19lejhb.jpg" alt="Where next for Benji?"/>
+        </a>
+      </figure>
+      <div class="asset-content">
+        <p>Benji Marshall's release from his Super Rugby contract with the Blues is confirmed, with NRL return planned.</p>
+      </div>
+    </li>
+  </ol>
+  <script type="text/javascript">
+
+y7rapidTrackedMods["y7module5357640cf23c4"] = "promo_quad"; 
+
+</script>
+</section>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+<section class="module mod-carousel-scroller mod-generic-scroller" role="presentation" id="y7module5357631971977">
+  <header class="header module-header">
+    <hgroup class="hgroup">
+      <h2 class="heading">Latest videos from 7News</h2>
+    </hgroup>
+  </header>
+  <div class="module-content module-content-1">
+    <ol class="asset-set generic-image-set carousel-items" role="complementary">
+      <li class="asset list-item li-1 first video video">
+        <figure class="figure">
+          <a role="img" href="/video/watch/22878139/white-powder-was-household-flour/" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/Isz8m2r4InxZI0xcKgoPJA--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTI4MTtoPTE2MDtkeD02O2R5PTE7Y3c9NjIwO2NoPTM1MztxPTcwO249MQ--/https://s.yimg.com/ea/img/-/140423/nonpremium_nocaptions_0423_1600_nat_powder_lrg-19lent1.jpg" title="White powder was household flour" alt="White powder was household flour" alt ="White powder was household flour"/>
+            <figcaption class="caption">White powder was household flour</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset list-item li-2 video video">
+        <figure class="figure">
+          <a role="img" href="/video/watch/22878098/coulsen-admits-to-phone-hacking-payment/" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/i5SNh20rlUagk0uhz62N_w--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTI4MTtoPTE2MDtkeD02O2R5PTE7Y3c9NjIwO2NoPTM1MztxPTcwO249MQ--/https://s.yimg.com/ea/img/-/140423/nonpremium_captions_0423_1600_nat_andy_lrg-19lensh.jpg" title="Coulsen admits to phone hacking payment" alt="Coulsen admits to phone hacking payment" alt ="Coulsen admits to phone hacking payment"/>
+            <figcaption class="caption">Coulsen admits to phone hacking payment</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset list-item li-3 video video">
+        <figure class="figure">
+          <a role="img" href="/video/watch/22877408/royals-give-djing-a-turn/" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/oyQRf8fbxhHPTVpI2Bq99A--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTI4MTtoPTE2MDtkeD02O2R5PTE7Y3c9NjIwO2NoPTM1MztxPTcwO249MQ--/https://s.yimg.com/ea/img/-/140423/nonpremium_nocaptions_0423_1600_nat_royals1_lrg-19lencn.jpg" title="Royals give DJing a turn" alt="Royals give DJing a turn" alt ="Royals give DJing a turn"/>
+            <figcaption class="caption">Royals give DJing a turn</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset list-item li-4 video video">
+        <figure class="figure">
+          <a role="img" href="/video/watch/22877406/royals-greet-adelaide-locals/" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/numQubddiIT4rJjM6fNHGQ--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTI4MTtoPTE2MDtkeD02O2R5PTE7Y3c9NjIwO2NoPTM1MztxPTcwO249MQ--/https://s.yimg.com/ea/img/-/140423/nonpremium_nocaptions_0423_1600_nat_royals3_lrg-19lenc5.jpg" title="Royals greet Adelaide locals" alt="Royals greet Adelaide locals" alt ="Royals greet Adelaide locals"/>
+            <figcaption class="caption">Royals greet Adelaide locals</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset list-item li-5 video video">
+        <figure class="figure">
+          <a role="img" href="/video/watch/22877368/gas-prices-in-nsw-set-to-rise/" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/DIejfSn0yJKeYxdX2ADT9Q--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTI4MTtoPTE2MDtkeD02O2R5PTE7Y3c9NjIwO2NoPTM1MztxPTcwO249MQ--/https://s.yimg.com/ea/img/-/140423/nonpremium_captions_0423_1600_nat_gas_lrg-19len0f.jpg" title="Gas prices in NSW set to rise" alt="Gas prices in NSW set to rise" alt ="Gas prices in NSW set to rise"/>
+            <figcaption class="caption">Gas prices in NSW set to rise</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset list-item li-6 video video">
+        <figure class="figure">
+          <a role="img" href="/video/watch/22873705/7news-bulletin-for-april-23/" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/19iRDevwNqvCTLYajZMPvA--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTI4MTtoPTE2MDtkeD02O2R5PTE7Y3c9NjIwO2NoPTM1MztxPTcwO249MQ--/https://s.yimg.com/ea/img/-/140423/nonpremium_nocaptions_0423_1300_nat_pod_lrg-19lee8p.jpg" title="7News bulletin for April 23" alt="7News bulletin for April 23" alt ="7News bulletin for April 23"/>
+            <figcaption class="caption">7News bulletin for April 23</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset list-item li-7 video video">
+        <figure class="figure">
+          <a role="img" href="/video/watch/22870471/nsw-police-smash-major-drug-ring/" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/oeFPE8ByspUTichHnN4IPg--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTI4MTtoPTE2MDtkeD02O2R5PTE7Y3c9NjIwO2NoPTM1MztxPTcwO249MQ--/https://s.yimg.com/ea/img/-/140423/nonpremium_captions_0423_1130_nat_drugs_lrg-19le8la.jpg" title="NSW police smash major drug ring" alt="NSW police smash major drug ring" alt ="NSW police smash major drug ring"/>
+            <figcaption class="caption">NSW police smash major drug ring</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset list-item li-8 video video">
+        <figure class="figure">
+          <a role="img" href="/video/watch/22870409/fisherman-finds-human-leg-bone/" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/CqIS2VOE5CEKXGEXkEUAAw--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTI4MTtoPTE2MDtkeD02O2R5PTE7Y3c9NjIwO2NoPTM1MztxPTcwO249MQ--/https://s.yimg.com/ea/img/-/140423/nonpremium_captions_0423_1130_nat_bone_lrg-19le8bv.jpg" title="Fisherman finds human leg bone" alt="Fisherman finds human leg bone" alt ="Fisherman finds human leg bone"/>
+            <figcaption class="caption">Fisherman finds human leg bone</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset list-item li-9 video video">
+        <figure class="figure">
+          <a role="img" href="/video/watch/22870293/woman-assaulted-mans-body-found/" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/zYr24rnqSAytcueYfNIvrQ--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTI4MTtoPTE2MDtkeD02O2R5PTE7Y3c9NjIwO2NoPTM1MztxPTcwO249MQ--/https://s.yimg.com/ea/img/-/140423/nonpremium_captions_0423_1130_nat_body_lrg-19le82p.jpg" title="Woman assaulted, man's body found" alt="Woman assaulted, man's body found" alt ="Woman assaulted, man's body found"/>
+            <figcaption class="caption">Woman assaulted, man's body found</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset list-item li-10 video video">
+        <figure class="figure">
+          <a role="img" href="/video/watch/22870076/royals-arrive-in-adelaide/" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/gGqgDVtf71QdXbD15nANWw--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTI4MTtoPTE2MDtkeD02O2R5PTE7Y3c9NjIwO2NoPTM1MztxPTcwO249MQ--/https://s.yimg.com/ea/img/-/140423/nonpremium_captions_0423_1130_nat_royals_lrg-19le7g0.jpg" title="Royals arrive in Adelaide" alt="Royals arrive in Adelaide" alt ="Royals arrive in Adelaide"/>
+            <figcaption class="caption">Royals arrive in Adelaide</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset list-item li-11 last video video">
+        <figure class="figure">
+          <a role="img" href="/video/watch/22869898/new-look-nsw-cabinet-sworn-in/" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/PsIAOcTxfo4W3X2ufr.DAA--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTI4MTtoPTE2MDtkeD02O2R5PTE7Y3c9NjIwO2NoPTM1MztxPTcwO249MQ--/https://s.yimg.com/ea/img/-/140423/nonpremium_captions_0423_1130_nat_cabinet_lrg-19le767.jpg" title="New-look NSW cabinet sworn in" alt="New-look NSW cabinet sworn in" alt ="New-look NSW cabinet sworn in"/>
+            <figcaption class="caption">New-look NSW cabinet sworn in</figcaption>
+          </a>
+        </figure>
+      </li>
+    </ol>
+  </div>
+  <script type="text/javascript">
+
+y7modules.push({"id":"y7module5357631971977","module":"carousel-scroller","contentBox":".carousel-items","boundingBox":".module-content","config":{"selectable":"true","allowLink":"true"},"init":function (Y) {
+                
+                    var module = Y.one('#' + this.id),
+                    bb = module.one(this.boundingBox),
+                    cb = module.one(this.contentBox);
+
+                    this.config.contentBox = cb;
+                    this.config.boundingBox = bb;
+                    this.config.srcNode = bb;
+
+                    module.carousel = new Y.CarouselScroller(this.config);
+                    module.carousel.render();
+                    
+             }});
+
+y7rapidTrackedMods["y7module5357631971977"] = "carousel_video_big"; 
+
+</script>
+</section>
+<div class="row">
+        <div class="column-1-2">
+            <section class="module feature-section" role="region" id="y7module535762f541f55">
+  <header class="module-header">
+    <hgroup>
+      <h2 class="heading">
+        <a href="/latest/">News</a>
+      </h2>
+    </hgroup>
+  </header>
+  <ol class="module-content asset">
+    <li class="asset asset-1 first asset-featured">
+      <a href="/a/22878543/frank-farina-sacked-as-sydney-fc-a-league-coach/">
+        <span class="datestamp">April 23, 4:41 pm</span>
+        <figure href="asset-figure">
+          <img alt="Frank Farina sacked as Sydney FC A-League coach" src="https://s.yimg.com/iu/api/res/1.2/Y_OWYnat9_p6i4zqByomaQ--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTMyMDtoPTE4MDtkeD0xO2R5PTE7Y3c9Njk5O2NoPTM5MjtxPTkw/https://s.yimg.com/ea/img/-/140423/5407306_5184750_16x9_700x394-19leodc.jpg"/>
+          <figcaption class="caption">Frank Farina sacked as Sydney FC A-League coach</figcaption>
+        </figure>
+      </a>
+    </li>
+    <li class="asset asset-2">
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="/a/22878565/love-letters-inspire-gallipoli-art-prize/">Love letters inspire Gallipoli Art Prize</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <time class="asset-timestamp" timestamp="1398235152">April 23, 4:39 pm</time>
+      </footer>
+    </li>
+    <li class="asset asset-3">
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="/a/22878229/olympic-boxer-fails-to-appear-for-road-rage-assault-sentencing/">Olympic boxer fails to appear for road rage assault sentencing</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <time class="asset-timestamp" timestamp="1398234960">April 23, 4:36 pm</time>
+      </footer>
+    </li>
+    <li class="asset asset-4">
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="/a/22878544/man-pleads-not-guilty-over-alleged-drug-debt-bashing/">Man pleads not guilty over alleged drug debt bashing</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <time class="asset-timestamp" timestamp="1398234892">April 23, 4:34 pm</time>
+      </footer>
+    </li>
+    <li class="asset asset-5 last">
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="/a/22872283/government-confirms-finance-for-royal-hobart-hospital-revamp-under-review/">Government confirms finance for Royal Hobart Hospital revamp under review</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <time class="asset-timestamp" timestamp="1398234533">April 23, 4:28 pm</time>
+      </footer>
+    </li>
+  </ol>
+  <footer class="module-footer">
+    <span class="more-link">
+      <a href="/latest/">View more National</a>
+    </span>
+  </footer>
+  <script type="text/javascript">
+
+y7rapidTrackedMods["y7module535762f541f55"] = "category_list_national"; 
+
+</script>
+</section>         
+        </div>
+        <div class="column-1-2">
+            <section class="module feature-section" role="region" id="y7module535763c877141">
+  <header class="module-header">
+    <hgroup>
+      <h2 class="heading">
+        <a href="http://au.sports.yahoo.com/news/">Sport</a>
+      </h2>
+    </hgroup>
+  </header>
+  <ol class="module-content asset">
+    <li class="asset asset-1 first asset-featured">
+      <a href="http://au.sports.yahoo.com/nrl/news/article/-/22877343/lyon-says-its-time-for-manly-to-move-on/">
+        <span class="datestamp">April 23, 4:38 pm</span>
+        <figure href="asset-figure">
+          <img alt="Lyon says it's time for Manly to move on" src="https://s.yimg.com/iu/api/res/1.2/Q2koFSfgcnh1NtkDUzf7jA--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTMyMDtoPTE3OTtkeD0xO2R5PTE7Y3c9MTI3OTtjaD03MTY7cT05MA--/https://s.yimg.com/ea/img/-/140423/2258914_23apr_jamielyon_1280x720-19leo9n.jpg"/>
+          <figcaption class="caption">Lyon says it's time for Manly to move on</figcaption>
+        </figure>
+      </a>
+    </li>
+    <li class="asset asset-2">
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="http://au.sports.yahoo.com/football/news/article/-/22878539/wanderers-may-have-edge-postecoglou/">Wanderers may have edge: Postecoglou</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <time class="asset-timestamp" timestamp="1398235056">April 23, 4:37 pm</time>
+      </footer>
+    </li>
+    <li class="asset asset-3">
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="http://au.sports.yahoo.com/football/news/article/-/22878470/sydney-fc-sack-farina/">Sydney FC sack Farina</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <time class="asset-timestamp" timestamp="1398235032">April 23, 4:37 pm</time>
+      </footer>
+    </li>
+    <li class="asset asset-4">
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="http://au.sports.yahoo.com/rugby/news/article/-/22877134/reds-kingpin-horwill-set-to-hit-super-ton/">Reds kingpin Horwill set to hit Super ton</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <time class="asset-timestamp" timestamp="1398233907">April 23, 4:18 pm</time>
+      </footer>
+    </li>
+    <li class="asset asset-5 last">
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="http://au.sports.yahoo.com/basketball/news/article/-/22877360/popovich-wins-nba-coach-of-the-year/">Popovich wins NBA coach of the year</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <time class="asset-timestamp" timestamp="1398233740">April 23, 4:15 pm</time>
+      </footer>
+    </li>
+  </ol>
+  <footer class="module-footer">
+    <span class="more-link">
+      <a href="http://au.sports.yahoo.com/news/">View more Sport News</a>
+    </span>
+  </footer>
+  <script type="text/javascript">
+
+y7rapidTrackedMods["y7module535763c877141"] = "category_list_sport"; 
+
+</script>
+</section>            
+        </div>
+    </div>
+    <div class="row">
+        <div class="column-1-2">
+            <section class="module feature-section" role="region" id="y7module53576162993d5">
+  <header class="module-header">
+    <hgroup>
+      <h2 class="heading">
+        <a href="/entertainment/">Entertainment</a>
+      </h2>
+    </hgroup>
+  </header>
+  <ol class="module-content asset">
+    <li class="asset asset-1 first asset-featured">
+      <a href="/entertainment/a/22875777/stephen-colbert-pays-visit-to-new-late-show-home/">
+        <span class="datestamp">April 23, 3:01 pm</span>
+        <figure href="asset-figure">
+          <img alt="Stephen Colbert pays visit to new 'Late Show' home" src="https://s.yimg.com/iu/api/res/1.2/fGUziFp8xeB1F9GKX73OEg--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTMxOTtoPTE3OTtkeD0xO2R5PTE7Y3c9NDQ5O2NoPTI1MjtxPTkw/https://s.yimg.com/ea/img/-/140423/2014_04_23t050057z_1_cbrea3m0dxp00_rtroptp_2_usa_elections_rally-19leihq.jpg"/>
+          <figcaption class="caption">Stephen Colbert pays visit to new 'Late Show' home</figcaption>
+        </figure>
+      </a>
+    </li>
+    <li class="asset asset-2">
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="/entertainment/a/22875757/the-national-cancel-russia-ukraine-shows/">The National cancel Russia, Ukraine shows</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <time class="asset-timestamp" timestamp="1398229083">April 23, 2:58 pm</time>
+      </footer>
+    </li>
+    <li class="asset asset-3">
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="/entertainment/a/22873976/mkr-sizzles-in-the-ratings/">MKR sizzles in the ratings</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <time class="asset-timestamp" timestamp="1398226275">April 23, 2:11 pm</time>
+      </footer>
+    </li>
+    <li class="asset asset-4">
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="/entertainment/a/22872265/royals-not-big-draw-card-for-show-goers/">Royals not big draw card for show-goers</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <time class="asset-timestamp" timestamp="1398226121">April 23, 2:08 pm</time>
+      </footer>
+    </li>
+    <li class="asset asset-5 last">
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="/entertainment/a/22872407/aussie-thriller-to-screen-at-cannes/">Aussie thriller to screen at Cannes</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <time class="asset-timestamp" timestamp="1398223103">April 23, 1:18 pm</time>
+      </footer>
+    </li>
+  </ol>
+  <footer class="module-footer">
+    <span class="more-link">
+      <a href="/entertainment/">View more Entertainment News</a>
+    </span>
+  </footer>
+  <script type="text/javascript">
+
+y7rapidTrackedMods["y7module53576162993d5"] = "category_list_"; 
+
+</script>
+</section>         
+        </div>
+        <div class="column-1-2">
+            <section class="module feature-section" role="region" id="y7module535763c150717">
+  <header class="module-header">
+    <hgroup>
+      <h2 class="heading">
+        <a href="/world/">World</a>
+      </h2>
+    </hgroup>
+  </header>
+  <ol class="module-content asset">
+    <li class="asset asset-1 first asset-featured">
+      <a href="/world/a/22878566/mourners-flock-to-funeral-of-myanmar-pro-democracy-hero/">
+        <span class="datestamp">April 23, 4:41 pm</span>
+        <figure href="asset-figure">
+          <img alt="Mourners flock to funeral of Myanmar pro-democracy hero" src="https://s.yimg.com/iu/api/res/1.2/AdjN75IPqXlU1e_a38J6lg--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTMyMDtoPTE3OTtkeD0xO2R5PTE7Y3c9NTExO2NoPTI4NjtxPTkw/https://s.yimg.com/ea/img/-/140423/7628f3a9c81b533377cc081fbe411223c688485b-19leoda.jpg"/>
+          <figcaption class="caption">Mourners flock to funeral of Myanmar pro-democracy hero</figcaption>
+        </figure>
+      </a>
+    </li>
+    <li class="asset asset-2">
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="/world/a/22878563/spirent-revenue-rises-on-china-4g-orders/">Spirent revenue rises on China 4G orders</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <time class="asset-timestamp" timestamp="1398235324">April 23, 4:42 pm</time>
+      </footer>
+    </li>
+    <li class="asset asset-3">
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="/world/a/22877639/fenner-profit-slumps-on-weak-demand-for-conveyor-belts/">Fenner profit slumps on weak demand for conveyor belts</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <time class="asset-timestamp" timestamp="1398234757">April 23, 4:32 pm</time>
+      </footer>
+    </li>
+    <li class="asset asset-4">
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="/world/a/22877640/uk-awards-subsidy-contracts-to-8-renewable-energy-projects/">UK awards subsidy contracts to 8 renewable energy projects</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <time class="asset-timestamp" timestamp="1398234667">April 23, 4:31 pm</time>
+      </footer>
+    </li>
+    <li class="asset asset-5 last">
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="/world/a/22877422/drax-sues-uk-government-over-u-turn-on-biomass-conversion-support/">Drax sues UK government over u-turn on biomass conversion support</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <time class="asset-timestamp" timestamp="1398234588">April 23, 4:29 pm</time>
+      </footer>
+    </li>
+  </ol>
+  <footer class="module-footer">
+    <span class="more-link">
+      <a href="/world/">View more World News</a>
+    </span>
+  </footer>
+  <script type="text/javascript">
+
+y7rapidTrackedMods["y7module535763c150717"] = "category_list_world"; 
+
+</script>
+</section>            
+        </div>
+    </div>
+    <div class="row">
+        <div class="column-1-2">
+            <section class="module feature-section" role="region" id="y7module535763c12574e">
+  <header class="module-header">
+    <hgroup>
+      <h2 class="heading">
+        <a href="/technology/">Technology</a>
+      </h2>
+    </hgroup>
+  </header>
+  <ol class="module-content asset">
+    <li class="asset asset-1 first asset-featured">
+      <a href="/technology/a/22877644/panasonic-fujitsu-to-form-chip-design-development-company/">
+        <span class="datestamp">April 23, 4:31 pm</span>
+        <figure href="asset-figure">
+          <img alt="Panasonic, Fujitsu to form chip design, development company" src="https://s.yimg.com/iu/api/res/1.2/hSPKIUB17QS.AZIJyQUe.g--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTMxOTtoPTE3OTtkeD0xO2R5PTE7Y3c9NDQ5O2NoPTI1MjtxPTkw/https://s.yimg.com/ea/img/-/140423/2014_04_23t063132z_1_cbrea3m0i4q00_rtroptp_2_japan_economy_wages-19lenqi.jpg"/>
+          <figcaption class="caption">Panasonic, Fujitsu to form chip design, development company</figcaption>
+        </figure>
+      </a>
+    </li>
+    <li class="asset asset-2">
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="/technology/a/22877144/ericsson-misses-first-quarter-forecasts-sees-boost-in-second-half/">Ericsson misses first-quarter forecasts, sees boost in second half</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <time class="asset-timestamp" timestamp="1398231871">April 23, 3:44 pm</time>
+      </footer>
+    </li>
+    <li class="asset asset-3">
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="/technology/a/22872162/brazil-passes-trailblazing-internet-privacy-law/">Brazil passes trailblazing Internet privacy law</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <time class="asset-timestamp" timestamp="1398221785">April 23, 12:56 pm</time>
+      </footer>
+    </li>
+    <li class="asset asset-4">
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="/technology/a/22872103/chinas-huawei-says-investment-in-information-technology-to-rise-14-percent-in-2014/">China's Huawei says investment in information technology to rise 14 percent in 2014</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <time class="asset-timestamp" timestamp="1398221758">April 23, 12:55 pm</time>
+      </footer>
+    </li>
+    <li class="asset asset-5 last">
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="/technology/a/22867460/brazilian-congress-passes-internet-bill-of-rights/">Brazilian Congress passes Internet bill of rights</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <time class="asset-timestamp" timestamp="1398214065">April 23, 10:47 am</time>
+      </footer>
+    </li>
+  </ol>
+  <footer class="module-footer">
+    <span class="more-link">
+      <a href="/technology/">View more Technology News</a>
+    </span>
+  </footer>
+  <script type="text/javascript">
+
+y7rapidTrackedMods["y7module535763c12574e"] = "category_list_technology"; 
+
+</script>
+</section>         
+        </div>
+        <div class="column-1-2">
+            <section class="module feature-section" role="region" id="y7module535763b6f0c37">
+  <header class="module-header">
+    <hgroup>
+      <h2 class="heading">
+        <a href="http://au.finance.yahoo.com/">Finance</a>
+      </h2>
+    </hgroup>
+  </header>
+  <ol class="module-content asset">
+    <li class="asset asset-1 first asset-featured">
+      <a href="http://au.finance.yahoo.com/news/share-market-hits-near-six-023712158.html">
+        <span class="datestamp">April 23, 1:08 pm</span>
+        <figure href="asset-figure">
+          <img alt="Share market hits near six year high" src="https://s.yimg.com/iu/api/res/1.2/qggVvtoPw8dEzfpw1LZZQQ--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTMxOTtoPTE3OTtkeD0xO2R5PTE7Y3c9MzAxO2NoPTE2OTtxPTkw/https://s.yimg.com/ea/img/-/140423/asx_302_19lebl1-19lebl8.jpg"/>
+          <figcaption class="caption">Share market hits near six year high</figcaption>
+        </figure>
+      </a>
+    </li>
+    <li class="asset asset-2">
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="http://au.finance.yahoo.com/news/inflation-expected-exceed-banks-comfort-223714697.html">Inflation expected to hit 3.2 per cent</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <time class="asset-timestamp" timestamp="1398208811">April 23, 9:20 am</time>
+      </footer>
+    </li>
+    <li class="asset asset-3">
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="http://au.pfinance.yahoo.com/our-experts/michael-pascoe/article/-/22837710/boost-pensions-to-save-on-aged-costs-no-seriously/">Outrageous pensions suggestion 'makes sense'</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <time class="asset-timestamp" timestamp="1398136762">April 22, 1:19 pm</time>
+      </footer>
+    </li>
+    <li class="asset asset-4">
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="http://au.finance.yahoo.com/news/falls-china-rules-stimulus-213111364.html">$A falls as China rules out stimulus</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <time class="asset-timestamp" timestamp="1398122718">April 22, 9:25 am</time>
+      </footer>
+    </li>
+    <li class="asset asset-5 last">
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="http://au.finance.yahoo.com/news/nab-lags-business-customer-ratings-220607786.html">NAB lags on business customer ratings</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <time class="asset-timestamp" timestamp="1398037076">April 21, 9:37 am</time>
+      </footer>
+    </li>
+  </ol>
+  <footer class="module-footer">
+    <span class="more-link">
+      <a href="http://au.finance.yahoo.com/">View more Finance News</a>
+    </span>
+  </footer>
+  <script type="text/javascript">
+
+y7rapidTrackedMods["y7module535763b6f0c37"] = "category_list_finance"; 
+
+</script>
+</section>            
+        </div>
+    </div>
+    <div class="row">
+        <div class="column-1-2">
+                     
+        </div>
+        <div class="column-1-2">
+                        
+        </div>
+    </div>
+    <div class="row">
+        <div class="column-1-2">
+                     
+        </div>
+        <div class="column-1-2">
+                        
+        </div>
+    </div>
+    <div class="row">
+        <div class="column-1-2">
+                     
+        </div>
+        <div class="column-1-2">
+                        
+        </div>
+    </div>
+
+
+<div class="accordion acc-moneyhound" id="y7module5357640d498a9">
+    <header class="module-header">
+        <h4 class="heading"><a href="http://au.pfinance.yahoo.com/compare/?cmp=ptt" target="_blank" class="widget-sponsor">Compare & Save</a></h4>
+        <span class="logo"><a href="http://au.pfinance.yahoo.com/compare/?cmp=ptt"  target="_blank" class="widget-sponsor">Moneyhound</a></span>
+    </header>
+    <section class="module mod-carousel-scroller mod-moneyhound home_loans" role="presentation" id="y7module535764054aa90">
+  <header class="header module-header">
+    <hgroup class="hgroup">
+      <h2 class="heading">Low Rate Home Loans</h2>
+    </hgroup>
+  </header>
+  <div class="module-content module-content-1">
+    <ol class="asset-set carousel-items">
+      <li class="asset list-item li-1 first">
+        <a target="_blank" href="http://direct.ratecity.com.au/home-loans/loans-com-au/dream-home-loan-hot-summer-rate/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ao/moneyhound/loans.com.au_logo_120x120.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=ECQxs6NgTfYceLAU09phQg--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Dream Home Loan -...</span>
+            <span class="special">comp. rate p.a. <em>4.53%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-2">
+        <a target="_blank" href="http://direct.ratecity.com.au/home-loans/bankmecu/basic-variable-special/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genielogos/110908/bankmecu-176geet.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=gdaP4Qp5TEOK27Dp.160rQ--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Basic Variable...</span>
+            <span class="special">comp. rate p.a. <em>4.73%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-3">
+        <a target="_blank" href="http://direct.ratecity.com.au/home-loans/boq/clear-path-variable-home-loan/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genielogos/110908/boq_logo_large-176gee4.gif?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=zVAIs3UG68txudmteabYlQ--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Clear Path Variable...</span>
+            <span class="special">comp. rate p.a. <em>5.00%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-4">
+        <a target="_blank" href="http://direct.ratecity.com.au/home-loans/bankmecu/first-homebuyers/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genielogos/110908/bankmecu-176geet.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=gdaP4Qp5TEOK27Dp.160rQ--"/>
+          </span>
+          <span class="details">
+            <span class="caption">First Homebuyers</span>
+            <span class="special">comp. rate p.a. <em>5.17%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-5">
+        <a target="_blank" href="http://direct.ratecity.com.au/home-loans/newcastle-permanent/premium-plus-package-premium-variable-250-499k/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genielogos/110908/npb1-176geej.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=qJhTEFaZoAZCfRMABUxxNA--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Premium Plus...</span>
+            <span class="special">comp. rate p.a. <em>5.22%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-6">
+        <a target="_blank" href="http://direct.ratecity.com.au/home-loans/cua/rate-breaker/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genielogos/110908/cua-176geel.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=DROQYIhACu4duz2c3gVkbA--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Rate Breaker</span>
+            <span class="special">comp. rate p.a. <em>5.25%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-7">
+        <a target="_blank" href="http://direct.ratecity.com.au/home-loans/greater-building-society/ultimate-home-loan-package-variable/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genielogos/110908/gbs1-176geel.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=mGIJWTRnb1VSqCwyJxwbqw--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Ultimate Home Loan...</span>
+            <span class="special">comp. rate p.a. <em>5.26%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-8">
+        <a target="_blank" href="http://direct.ratecity.com.au/home-loans/newcastle-permanent/discounted-real-deal-3-yrs/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genielogos/110908/npb1-176geej.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=qJhTEFaZoAZCfRMABUxxNA--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Discounted Real Deal</span>
+            <span class="special">comp. rate p.a. <em>5.12%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-9">
+        <a target="_blank" href="http://direct.ratecity.com.au/home-loans/cua/residential-fixed-3-yrs/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genielogos/110908/cua-176geel.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=DROQYIhACu4duz2c3gVkbA--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Residential Fixed</span>
+            <span class="special">comp. rate p.a. <em>5.32%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-10 last">
+        <a target="_blank" href="http://direct.ratecity.com.au/home-loans/newcastle-permanent/residential-fixed-5-yrs/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genielogos/110908/npb1-176geej.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=qJhTEFaZoAZCfRMABUxxNA--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Residential Fixed</span>
+            <span class="special">comp. rate p.a. <em>5.44%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+    </ol>
+  </div>
+  <div class="module-footer">
+    <p>
+      <a class="disclaimer" href="http://au.pfinance.yahoo.com/compare/disclaimer/?cmp=ptt" target="_blank">Important disclosures</a>
+      <a class="module-footer" href="http://au.pfinance.yahoo.com/compare/home-loans/search/?search=variable-rate&amp;cmp=ptt">COMPARE MORE</a>
+    </p>
+  </div>
+  <script type="text/javascript">
+
+y7modules.push({"id":"y7module535764054aa90","module":"carousel-scroller","contentBox":".carousel-items","boundingBox":".module-content","config":{"selectable":"true","allowLink":"true"},"init":function (Y) {
+                var module = Y.one('#' + this.id),
+                        bb = module.one(this.boundingBox),
+                        cb = module.one(this.contentBox);
+
+                this.config.contentBox = cb;
+                this.config.boundingBox = bb;
+                this.config.srcNode = bb;
+
+                module.carousel = new Y.CarouselScroller(this.config);
+                module.carousel.render();
+        }});
+
+y7rapidTrackedMods["y7module535764054aa90"] = "moneyhound"; 
+
+</script>
+</section>
+    <section class="module mod-carousel-scroller mod-moneyhound cc" role="presentation" id="y7module5357640543d9a">
+  <header class="header module-header">
+    <hgroup class="hgroup">
+      <h2 class="heading">Compare Credit Cards</h2>
+    </hgroup>
+  </header>
+  <div class="module-content module-content-1">
+    <ol class="asset-set carousel-items">
+      <li class="asset list-item li-1 first">
+        <a target="_blank" href="//au.pfinance.yahoo.com/compare/credit-cards/product/43027/vertigo-mastercard/">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/-/131212/stgeorge_vertigo_120x77_19aifun-19aifuu.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=56ESRG.Gnx6XzlKkgbQU0A--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Vertigo MasterCard</span>
+            <span class="special">purchase rate <em>13.24%<span> p.a. </span></em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-2">
+        <a target="_blank" href="//au.pfinance.yahoo.com/compare/credit-cards/product/40417/low-rate-visa-card/">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/-/130506/westpac_lowratevisacard_120x77_18oe0lk-18oe0lo.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=riDgdgGY29qcrnJUN7JL0g--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Low Rate Visa Card</span>
+            <span class="special">purchase rate <em>13.49%<span> p.a. </span></em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-3">
+        <a target="_blank" href="//au.pfinance.yahoo.com/compare/credit-cards/product/11278/low-rate/">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genie/101213/19556-16gbc0s.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=hYpeVnyRMPcymldm0RholQ--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Low Rate</span>
+            <span class="special">purchase rate <em>13.49%<span> p.a. </span></em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-4">
+        <a target="_blank" href="//au.pfinance.yahoo.com/compare/credit-cards/product/37159/credit-card/">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/-/140214/hsbc_credit_card_19fqrvf-19fqrvm.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=_otcnCkY86pBpxnv1y1DMQ--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Credit Card</span>
+            <span class="special">purchase rate <em>17.99%<span> p.a. </span></em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-5">
+        <a target="_blank" href="//au.pfinance.yahoo.com/compare/credit-cards/product/60160/amplify-credit-card/">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genie/110722/17241-172hoc8.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=.FDBZI6qquwTj78KCsVvKA--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Amplify Credit Card</span>
+            <span class="special">purchase rate <em>19.49%<span> p.a. </span></em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-6">
+        <a target="_blank" href="//au.pfinance.yahoo.com/compare/credit-cards/product/11657/55-day-visa-card/">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/-/130506/westpac_55dayvisacard_120x77_18oe0c6-18oe0c9.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=i34uhe5QZ.TG8iQKGscbJw--"/>
+          </span>
+          <span class="details">
+            <span class="caption">55 day Visa Card</span>
+            <span class="special">purchase rate <em>19.59%<span> p.a. </span></em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-7">
+        <a target="_blank" href="//au.pfinance.yahoo.com/compare/credit-cards/product/11276/first/">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genie/101116/572-16e3b6v.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=dmPA24cGsy5YeqZk7hPgvw--"/>
+          </span>
+          <span class="details">
+            <span class="caption">First</span>
+            <span class="special">purchase rate <em>19.74%<span> p.a. </span></em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-8">
+        <a target="_blank" href="//au.pfinance.yahoo.com/compare/credit-cards/product/67204/platinum-qantas.../">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/-/140214/hsbc_platinum_qantas_credit_card_19fqrur-19fqrv0.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=ax.7_mF6O5p6MBw3J9F8xQ--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Platinum Qantas...</span>
+            <span class="special">purchase rate <em>19.99%<span> p.a. </span></em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-9">
+        <a target="_blank" href="//au.pfinance.yahoo.com/compare/credit-cards/product/32517/altitude/">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genie/101116/668-16e3b6t.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=G0UTYqHSMuX0_F6cAA5L8A--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Altitude</span>
+            <span class="special">purchase rate <em>19.99%<span> p.a. </span></em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-10 last">
+        <a target="_blank" href="//au.pfinance.yahoo.com/compare/credit-cards/product/50902/earth/">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genie/101116/602-16e3b6u.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=v6VdkJ5K8YPAF2SzTQqk.A--"/>
+          </span>
+          <span class="details">
+            <span class="caption">earth</span>
+            <span class="special">purchase rate <em>19.99%<span> p.a. </span></em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+    </ol>
+  </div>
+  <div class="module-footer">
+    <p>
+      <a class="disclaimer" href="http://au.pfinance.yahoo.com/compare/disclaimer/?cmp=ptt" target="_blank">Important disclosures</a>
+      <a class="module-footer" href="http://au.pfinance.yahoo.com/compare/credit-cards/search/?search=balance-transfer&amp;cmp=ptt">COMPARE MORE</a>
+    </p>
+  </div>
+  <script type="text/javascript">
+
+y7modules.push({"id":"y7module5357640543d9a","module":"carousel-scroller","contentBox":".carousel-items","boundingBox":".module-content","config":{"selectable":"true","allowLink":"true"},"init":function (Y) {
+                var module = Y.one('#' + this.id),
+                        bb = module.one(this.boundingBox),
+                        cb = module.one(this.contentBox);
+
+                this.config.contentBox = cb;
+                this.config.boundingBox = bb;
+                this.config.srcNode = bb;
+
+                module.carousel = new Y.CarouselScroller(this.config);
+                module.carousel.render();
+        }});
+
+y7rapidTrackedMods["y7module5357640543d9a"] = "moneyhound"; 
+
+</script>
+</section>
+    <section class="module mod-carousel-scroller mod-moneyhound mobile" role="presentation" id="y7module535763f69362c">
+  <header class="header module-header">
+    <hgroup class="hgroup">
+      <h2 class="heading">Compare Mobile Plans</h2>
+    </hgroup>
+  </header>
+  <div class="module-content module-content-1">
+    <ol class="asset-set carousel-items">
+      <li class="asset list-item li-1 first">
+        <a target="_blank" href="http://mobilephones.yahoo.com.au/Transact?gi=612&amp;e=true&amp;&amp;u=http%3A%2F%2Fwww.telstra.com.au%2Fmobile-phones%2Fmobiles-on-a-plan%2Fsamsung-galaxy-s4-cat4%2F&amp;m=We%27re%20taking%20you%20to%20the%20Galaxy%20S4%20on%20Telstra&amp;ad=true&amp;utm_source=Yahoo_Mobile_Phone_Deals&amp;utm_medium=Widget&amp;utm_campaign=GALAXY_S4">
+          <span class="img">
+            <img src="https://s.yimg.com/iu/api/res/1.2/xbhnoYupnLAUDqYOQKBFKQ--/YXBwaWQ9eXZpZGVvO2ZpPWZpbGw7dz0xMDA7aD03NztxPTkwO249MQ--/http://r3.whistleout.com.au/public/images/deals/mobile_100x77_0613_gs4_l.jpg" alt="GALAXY S4"/>
+          </span>
+          <span class="details">
+            <span class="caption">It's time to change...</span>
+            <span class="special">GALAXY S4</span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-2">
+        <a target="_blank" href="http://mobilephones.yahoo.com.au/MobilePhones/Phones/Apple/Apple-iPhone-5c-16GB?utm_source=Yahoo_Mobile_Phone_Deals&amp;utm_medium=Widget&amp;utm_campaign=iPhone_5c_Plans">
+          <span class="img">
+            <img src="https://s.yimg.com/iu/api/res/1.2/0NtpV29eEwu_5PTXQv6fqQ--/YXBwaWQ9eXZpZGVvO2ZpPWZpbGw7dz0xMDA7aD03NztxPTkwO249MQ--/http://r3.whistleout.com.au/public/images/deals/mobile_100x77_0913_iphone5c_c.jpg" alt="iPhone 5c Plans"/>
+          </span>
+          <span class="details">
+            <span class="caption">Compare plans from all major carriers</span>
+            <span class="special">iPhone 5c Plans</span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-3">
+        <a target="_blank" href="http://mobilephones.yahoo.com.au/Transact?gi=9&amp;e=true&amp;u=http://www.optus.com.au/shop/mobilephones/iphone/iphone5s?utm_source=wo&amp;utm_medium=affil&amp;utm_content=gotosit_bttn&amp;utm_campaign=perf_mob_bau&amp;CID=affil:wo:gotosit:bttn:osc:mob:bau:ip5S&amp;utm_source=Yahoo_Mobile_Phone_Deals&amp;utm_medium=Widget&amp;utm_campaign=iPhone_5s_on_Optus">
+          <span class="img">
+            <img src="https://s.yimg.com/iu/api/res/1.2/D8HccoMKbl4xna_btb.pfg--/YXBwaWQ9eXZpZGVvO2ZpPWZpbGw7dz0xMDA7aD03NztxPTkwO249MQ--/http://r3.whistleout.com.au/public/images/deals/mobile_100x77_0913_iphone5s_h.jpg" alt="iPhone 5s on Optus"/>
+          </span>
+          <span class="details">
+            <span class="caption">From $65/Mth on Optus</span>
+            <span class="special">iPhone 5s on Optus</span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-4">
+        <a target="_blank" href="http://mobilephones.yahoo.com.au/MobilePhones/Phones/Apple/Apple-iPhone-5s-16GB?utm_source=Yahoo_Mobile_Phone_Deals&amp;utm_medium=Widget&amp;utm_campaign=iPhone_5s_Plans">
+          <span class="img">
+            <img src="https://s.yimg.com/iu/api/res/1.2/xVtgkPD9kbyUEaOgMRGTJw--/YXBwaWQ9eXZpZGVvO2ZpPWZpbGw7dz0xMDA7aD03NztxPTkwO249MQ--/http://r3.whistleout.com.au/public/images/deals/mobile_100x77_0913_iphone5s_c.jpg" alt="iPhone 5s Plans"/>
+          </span>
+          <span class="details">
+            <span class="caption">Compare plans from all major carriers</span>
+            <span class="special">iPhone 5s Plans</span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-5">
+        <a target="_blank" href="http://mobilephones.yahoo.com.au/MobilePhones?utm_source=Yahoo_Mobile_Phone_Deals&amp;utm_medium=Widget&amp;utm_campaign=Android_Deals">
+          <span class="img">
+            <img src="https://s.yimg.com/iu/api/res/1.2/kwFH7SSwCXu5ml5F5hG.SA--/YXBwaWQ9eXZpZGVvO2ZpPWZpbGw7dz0xMDA7aD03NztxPTkwO249MQ--/http://r3.whistleout.com.au/public/images/deals/mobile_100x77_0114_note3_d.jpg" alt="Android Deals"/>
+          </span>
+          <span class="details">
+            <span class="caption">Compare hundreds of deals</span>
+            <span class="special">Android Deals</span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-6">
+        <a target="_blank" href="http://mobilephones.yahoo.com.au/MobilePhones/SIM-Only-Mobile-Phone-Plans?utm_source=Yahoo_Mobile_Phone_Deals&amp;utm_medium=Widget&amp;utm_campaign=Compare_SIM_Only_Plans">
+          <span class="img">
+            <img src="https://s.yimg.com/iu/api/res/1.2/T39c4_u8YPSU9DiwbJo7AA--/YXBwaWQ9eXZpZGVvO2ZpPWZpbGw7dz0xMDA7aD03NztxPTkwO249MQ--/http://r3.whistleout.com.au/public/images/deals/mobile_100x77_0613_simonly_4.jpg" alt="Compare SIM Only Plans"/>
+          </span>
+          <span class="details">
+            <span class="caption">New SIM Only plans starting from $6/Month</span>
+            <span class="special">Compare SIM Only Plans</span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-7 last">
+        <a target="_blank" href="http://mobilephones.yahoo.com.au/Transact?gi=9&amp;e=true&amp;utm_source=Yahoo_Mobile_Phone_Deals&amp;utm_medium=Widget&amp;utm_campaign=Lumia_1020_on_Optus">
+          <span class="img">
+            <img src="https://s.yimg.com/iu/api/res/1.2/xkLa9TJKvpme7.F9Q1s2tw--/YXBwaWQ9eXZpZGVvO2ZpPWZpbGw7dz0xMDA7aD03NztxPTkwO249MQ--/http://r3.whistleout.com.au/public/images/deals/mobile_100x77_0114_lumia1020_d.jpg" alt="Lumia 1020 on Optus"/>
+          </span>
+          <span class="details">
+            <span class="caption">On New Optus MyPlans!</span>
+            <span class="special">Lumia 1020 on Optus</span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+    </ol>
+  </div>
+  <div class="module-footer">
+    <p>
+      <a class="module-footer" href="http://mobilephones.yahoo.com.au/mobilephones?cmp=ptt">COMPARE MORE</a>
+    </p>
+  </div>
+  <script type="text/javascript">
+
+y7modules.push({"id":"y7module535763f69362c","module":"carousel-scroller","contentBox":".carousel-items","boundingBox":".module-content","config":{"selectable":"true","allowLink":"true"},"init":function (Y) {
+                var module = Y.one('#' + this.id),
+                        bb = module.one(this.boundingBox),
+                        cb = module.one(this.contentBox);
+
+                this.config.contentBox = cb;
+                this.config.boundingBox = bb;
+                this.config.srcNode = bb;
+
+                module.carousel = new Y.CarouselScroller(this.config);
+                module.carousel.render();
+        }});
+
+y7rapidTrackedMods["y7module535763f69362c"] = "moneyhound"; 
+
+</script>
+</section>
+    <section class="module mod-carousel-scroller mod-moneyhound personal_loans" role="presentation" id="y7module535763e7da59a">
+  <header class="header module-header">
+    <hgroup class="hgroup">
+      <h2 class="heading">Car & Personal Loans</h2>
+    </hgroup>
+  </header>
+  <div class="module-content module-content-1">
+    <ol class="asset-set carousel-items">
+      <li class="asset list-item li-1 first">
+        <a target="_blank" href="http://direct.ratecity.com.au/personal-loans/360-finance/360-advantage-car-loan/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/-/140213/360_finance_120_120_19fokjf-19fokjk.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=.ZYArX6YcW8CRNKhRnu_WA--"/>
+          </span>
+          <span class="details">
+            <span class="caption">360 Advantage Car...</span>
+            <span class="special">comp. rate p.a. <em>7.22%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-2">
+        <a target="_blank" href="http://direct.ratecity.com.au/personal-loans/imb/car-loan-new/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genielogos/110908/imb_logo_103x93px_descr-176gee7.gif?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=_EgwqGZra8vwmTxmaPFUOQ--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Car Loan (New)</span>
+            <span class="special">comp. rate p.a. <em>7.51%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-3">
+        <a target="_blank" href="http://direct.ratecity.com.au/personal-loans/bankmecu/gogreen-car-fixed-ancap5-ghse7/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genielogos/110908/bankmecu-176geet.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=gdaP4Qp5TEOK27Dp.160rQ--"/>
+          </span>
+          <span class="details">
+            <span class="caption">goGreen Car- Fixed-...</span>
+            <span class="special">comp. rate p.a. <em>7.55%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-4">
+        <a target="_blank" href="http://direct.ratecity.com.au/personal-loans/racv/car-loan/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genielogos/101112/racv-16doqom.png?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=dz9QE4wykV9.JhEwWyIaYQ--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Car Loan</span>
+            <span class="special">comp. rate p.a. <em>7.88%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-5">
+        <a target="_blank" href="http://direct.ratecity.com.au/personal-loans/nrma-car-loans/secured-car-loan/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/-/131016/nrma_120x120_195rlka-195rlkf.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=i.pnVO5ypCnOxoFLhHR.tg--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Secured Car Loan</span>
+            <span class="special">comp. rate p.a. <em>7.88%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-6">
+        <a target="_blank" href="http://direct.ratecity.com.au/personal-loans/cua/vehicles-2yrs-old-30k-fixed/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genielogos/110908/cua-176geel.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=DROQYIhACu4duz2c3gVkbA--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Vehicles &lt;2yrs...</span>
+            <span class="special">comp. rate p.a. <em>8.66%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-7">
+        <a target="_blank" href="http://direct.ratecity.com.au/personal-loans/suncorp-bank/secured-car-loans/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genielogos/110908/semsuncorp-176geem.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=py.dhY1bMhtpk.HG_byQxg--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Secured Car Loans</span>
+            <span class="special">comp. rate p.a. <em>8.95%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-8">
+        <a target="_blank" href="http://direct.ratecity.com.au/personal-loans/imb/personal-loan-secured/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genielogos/110908/imb_logo_103x93px_descr-176gee7.gif?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=_EgwqGZra8vwmTxmaPFUOQ--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Personal Loan...</span>
+            <span class="special">comp. rate p.a. <em>8.95%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-9">
+        <a target="_blank" href="http://direct.ratecity.com.au/personal-loans/societyone/unsecured-personal-loan/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/-/120810/society_one_100x100_1829ate-1829ato.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=.kFq8YwiWSaPRjMjVsPK1A--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Unsecured Personal...</span>
+            <span class="special">comp. rate p.a. <em>9.80%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-10 last">
+        <a target="_blank" href="http://direct.ratecity.com.au/personal-loans/cua/fixed-personal-loan/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genielogos/110908/cua-176geel.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=DROQYIhACu4duz2c3gVkbA--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Fixed Personal Loan</span>
+            <span class="special">comp. rate p.a. <em>12.83%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+    </ol>
+  </div>
+  <div class="module-footer">
+    <p>
+      <a class="disclaimer" href="http://au.pfinance.yahoo.com/compare/disclaimer/?cmp=ptt" target="_blank">Important disclosures</a>
+      <a class="module-footer" href="http://au.pfinance.yahoo.com/compare/personal-loans/search/?search=fixed-rate&amp;cmp=ptt">COMPARE MORE</a>
+    </p>
+  </div>
+  <script type="text/javascript">
+
+y7modules.push({"id":"y7module535763e7da59a","module":"carousel-scroller","contentBox":".carousel-items","boundingBox":".module-content","config":{"selectable":"true","allowLink":"true"},"init":function (Y) {
+                var module = Y.one('#' + this.id),
+                        bb = module.one(this.boundingBox),
+                        cb = module.one(this.contentBox);
+
+                this.config.contentBox = cb;
+                this.config.boundingBox = bb;
+                this.config.srcNode = bb;
+
+                module.carousel = new Y.CarouselScroller(this.config);
+                module.carousel.render();
+        }});
+
+y7rapidTrackedMods["y7module535763e7da59a"] = "moneyhound"; 
+
+</script>
+</section>
+    <section class="module mod-carousel-scroller mod-moneyhound savings" role="presentation" id="y7module535763afde573">
+  <header class="header module-header">
+    <hgroup class="hgroup">
+      <h2 class="heading">High Interest Savings Accounts</h2>
+    </hgroup>
+  </header>
+  <div class="module-content module-content-1">
+    <ol class="asset-set carousel-items">
+      <li class="asset list-item li-1 first">
+        <a target="_blank" href="http://direct.ratecity.com.au/at-call-accounts/ing-direct/savings-maximiser/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genielogos/110908/ingdirect1-176geep.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=pWmK8gd2TZmbwS9dLNPFig--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Savings Maximiser</span>
+            <span class="special">max rate p.a. <em>4.35%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-2">
+        <a target="_blank" href="http://direct.ratecity.com.au/at-call-accounts/bank-of-melbourne/maxi-saver/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/-/111118/bank_of_melbourne_logo_17caugk-17cauh8.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=_ramW4tkoMaXLvfGDpk7iA--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Maxi Saver</span>
+            <span class="special">max rate p.a. <em>4.05%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-3">
+        <a target="_blank" href="http://direct.ratecity.com.au/at-call-accounts/st-george-bank/maxi-saver/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/-/130606/stgeorge_logo_100x100_18r0aob-18r0aof.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=OboJFm0C8Ge6HPrZn6e7Nw--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Maxi Saver</span>
+            <span class="special">max rate p.a. <em>4.05%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-4">
+        <a target="_blank" href="http://direct.ratecity.com.au/at-call-accounts/hsbc/serious-saver-account/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/-/130327/hsbc_logo_100x100_18l4s0e-18l4s14.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=0A4k725mCYCEIZxOTlbMbg--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Serious Saver...</span>
+            <span class="special">max rate p.a. <em>4.00%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-5">
+        <a target="_blank" href="http://direct.ratecity.com.au/at-call-accounts/westpac/esaver/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genielogos/110908/semwestpac-176geem.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=5Kx80U1a4eXT1icqERA6zQ--"/>
+          </span>
+          <span class="details">
+            <span class="caption">eSaver</span>
+            <span class="special">max rate p.a. <em>3.92%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-6">
+        <a target="_blank" href="http://direct.ratecity.com.au/at-call-accounts/anz/online-saver/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genielogos/110908/anz1-176geep.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=mYQ6XgDHsdyJljGUzUa05w--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Online Saver</span>
+            <span class="special">max rate p.a. <em>3.90%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-7">
+        <a target="_blank" href="http://direct.ratecity.com.au/at-call-accounts/anz/progress-saver/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genielogos/110908/anz1-176geep.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=mYQ6XgDHsdyJljGUzUa05w--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Progress Saver</span>
+            <span class="special">max rate p.a. <em>3.81%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-8">
+        <a target="_blank" href="http://direct.ratecity.com.au/at-call-accounts/westpac/reward-saver/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genielogos/110908/semwestpac-176geem.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=5Kx80U1a4eXT1icqERA6zQ--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Reward Saver</span>
+            <span class="special">max rate p.a. <em>3.71%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-9">
+        <a target="_blank" href="http://direct.ratecity.com.au/at-call-accounts/hsbc/flexi-saver/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/-/130327/hsbc_logo_100x100_18l4s0e-18l4s14.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=0A4k725mCYCEIZxOTlbMbg--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Flexi Saver</span>
+            <span class="special">max rate p.a. <em>3.50%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+      <li class="asset list-item li-10 last">
+        <a target="_blank" href="http://direct.ratecity.com.au/at-call-accounts/arab-bank-australia/online-savings-business/apply/new?source=moneyhound.com.au&amp;amp;utm_medium=referral&amp;utm_campaign=y-news-mp">
+          <span class="img">
+            <img src="https://s.yimg.com/ea/img/genielogos/110908/arabbank1-176geel.jpg?x=65&amp;y=50&amp;q=90&amp;n=1&amp;sig=UPfzqnl1t5BkPbWqc8y0jA--"/>
+          </span>
+          <span class="details">
+            <span class="caption">Online Savings...</span>
+            <span class="special">max rate p.a. <em>3.20%</em></span>
+            <span class="gobtn"></span>
+          </span>
+        </a>
+      </li>
+    </ol>
+  </div>
+  <div class="module-footer">
+    <p>
+      <a class="disclaimer" href="http://au.pfinance.yahoo.com/compare/disclaimer/?cmp=ptt" target="_blank">Important disclosures</a>
+      <a class="module-footer" href="http://au.pfinance.yahoo.com/compare/savings/search/?search=savings&amp;cmp=ptt">COMPARE MORE</a>
+    </p>
+  </div>
+  <script type="text/javascript">
+
+y7modules.push({"id":"y7module535763afde573","module":"carousel-scroller","contentBox":".carousel-items","boundingBox":".module-content","config":{"selectable":"true","allowLink":"true"},"init":function (Y) {
+                var module = Y.one('#' + this.id),
+                        bb = module.one(this.boundingBox),
+                        cb = module.one(this.contentBox);
+
+                this.config.contentBox = cb;
+                this.config.boundingBox = bb;
+                this.config.srcNode = bb;
+
+                module.carousel = new Y.CarouselScroller(this.config);
+                module.carousel.render();
+        }});
+
+y7rapidTrackedMods["y7module535763afde573"] = "moneyhound"; 
+
+</script>
+</section>
+    
+    
+    
+    
+    
+</div>
+<script>y7modules.push({"id":"y7module5357640d498a9","module":"accordion","contentBox":".accordion","config":{"selectable":"true"},"init":function (Y) {
+                var module = Y.one('#' + this.id),
+                        cb = module;
+
+                this.config.contentBox = cb;
+
+                module.accordion = new Y.Accordion(this.config);
+                module.accordion.render();
+        }});</script>
+
+
+
+
+
+
+            
+        </div>
+        <div class="column-1-3">
+            <div class="module weather-ulw" id="y7module-9912">
+	<!-- anchor element to trigger ULW -->
+	<a id="lw-anchor-id" class="lw-anchor-item">
+		<span class="lw-anchor-icon"></span>
+		<span class="lw-anchor-txt">Sydney</span>
+	</a>
+	<!-- weather widget content -->
+	<div class="module-content">
+		<div class="current">
+			<span class="tempimg mostly_sunny"></span>
+			<p class="temp">
+				<span class="average">22.6<sup>&deg;</sup></span>
+			</p>
+		</div>
+		<div class="forecast">
+			<p class="temp">
+				<span class="low">12</span> - <span class="high">26<sup>&deg;</sup></span>
+			</p>
+		</div>
+	</div>
+	<!-- parent node for the ULW widget overlay -->
+	<div id="ulw-widget"></div>
+        <script type="text/javascript">y7rapidTrackedMods["y7module-9912"] = "weather";</script>
+</div>
+
+
+<section class="module mod-carousel-scroller mod-generic-scroller" role="presentation" id="y7module535763cc8854e">
+  <header class="header module-header">
+    <hgroup class="hgroup">
+      <h2 class="heading">Popular videos</h2>
+    </hgroup>
+  </header>
+  <div class="module-content module-content-1">
+    <ol class="asset-set generic-image-set carousel-items" role="complementary">
+      <li class="asset list-item li-1 first video video">
+        <figure class="figure">
+          <a role="img" href="/video/watch/22878545/elderly-are-overtreated-says-leading-doctor/" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/yPSY6NG355LNTbT68XRoBg--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTI4MTtoPTE2MDtkeD02O2R5PTE7Y3c9NjIwO2NoPTM1MztxPTcwO249MQ--/https://s.yimg.com/ea/img/-/140423/nonpremium_captions_0423_1600_nat_elderly_lrg-19leo63.jpg" title="Elderly are 'overtreated', says leading doctor" alt="Elderly are 'overtreated', says leading doctor" alt ="Elderly are 'overtreated', says leading doctor"/>
+            <figcaption class="caption">Elderly are 'overtreated', says leading doctor</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset list-item li-2 video video">
+        <figure class="figure">
+          <a role="img" href="/video/watch/22878139/white-powder-was-household-flour/" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/Isz8m2r4InxZI0xcKgoPJA--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTI4MTtoPTE2MDtkeD02O2R5PTE7Y3c9NjIwO2NoPTM1MztxPTcwO249MQ--/https://s.yimg.com/ea/img/-/140423/nonpremium_nocaptions_0423_1600_nat_powder_lrg-19lent1.jpg" title="White powder was household flour" alt="White powder was household flour" alt ="White powder was household flour"/>
+            <figcaption class="caption">White powder was household flour</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset list-item li-3 video video">
+        <figure class="figure">
+          <a role="img" href="/video/watch/22877408/royals-give-djing-a-turn/" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/oyQRf8fbxhHPTVpI2Bq99A--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTI4MTtoPTE2MDtkeD02O2R5PTE7Y3c9NjIwO2NoPTM1MztxPTcwO249MQ--/https://s.yimg.com/ea/img/-/140423/nonpremium_nocaptions_0423_1600_nat_royals1_lrg-19lencn.jpg" title="Royals give DJing a turn" alt="Royals give DJing a turn" alt ="Royals give DJing a turn"/>
+            <figcaption class="caption">Royals give DJing a turn</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset list-item li-4 video video">
+        <figure class="figure">
+          <a role="img" href="/video/watch/22877406/royals-greet-adelaide-locals/" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/numQubddiIT4rJjM6fNHGQ--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTI4MTtoPTE2MDtkeD02O2R5PTE7Y3c9NjIwO2NoPTM1MztxPTcwO249MQ--/https://s.yimg.com/ea/img/-/140423/nonpremium_nocaptions_0423_1600_nat_royals3_lrg-19lenc5.jpg" title="Royals greet Adelaide locals" alt="Royals greet Adelaide locals" alt ="Royals greet Adelaide locals"/>
+            <figcaption class="caption">Royals greet Adelaide locals</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset list-item li-5 video video">
+        <figure class="figure">
+          <a role="img" href="/video/watch/22873705/7news-bulletin-for-april-23/" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/19iRDevwNqvCTLYajZMPvA--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTI4MTtoPTE2MDtkeD02O2R5PTE7Y3c9NjIwO2NoPTM1MztxPTcwO249MQ--/https://s.yimg.com/ea/img/-/140423/nonpremium_nocaptions_0423_1300_nat_pod_lrg-19lee8p.jpg" title="7News bulletin for April 23" alt="7News bulletin for April 23" alt ="7News bulletin for April 23"/>
+            <figcaption class="caption">7News bulletin for April 23</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset list-item li-6 video video">
+        <figure class="figure">
+          <a role="img" href="/video/watch/22870076/royals-arrive-in-adelaide/" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/gGqgDVtf71QdXbD15nANWw--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTI4MTtoPTE2MDtkeD02O2R5PTE7Y3c9NjIwO2NoPTM1MztxPTcwO249MQ--/https://s.yimg.com/ea/img/-/140423/nonpremium_captions_0423_1130_nat_royals_lrg-19le7g0.jpg" title="Royals arrive in Adelaide" alt="Royals arrive in Adelaide" alt ="Royals arrive in Adelaide"/>
+            <figcaption class="caption">Royals arrive in Adelaide</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset list-item li-7 video video">
+        <figure class="figure">
+          <a role="img" href="/video/watch/22870469/mount-everest-guides-go-on-strike/" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/POnwP4FZUv1_aF0NRiXoOA--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTI4MTtoPTE2MDtkeD02O2R5PTE7Y3c9NjIwO2NoPTM1MztxPTcwO249MQ--/https://s.yimg.com/ea/img/-/140423/nonpremium_captions_0423_1130_nat_everest_lrg-19le8l4.jpg" title="Mount Everest guides go on strike" alt="Mount Everest guides go on strike" alt ="Mount Everest guides go on strike"/>
+            <figcaption class="caption">Mount Everest guides go on strike</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset list-item li-8 video video">
+        <figure class="figure">
+          <a role="img" href="/video/watch/22868202/flashback-royal-visits-of-the-past/" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/efXM1_Lm.oLhyFNu32UChA--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTI4MTtoPTE2MDtkeD02O2R5PTE7Y3c9NjIwO2NoPTM1MztxPTcwO249MQ--/https://s.yimg.com/ea/img/-/140423/nonpremium_nocaptions_0423_sa_royals1_lrg-19le62a.jpg" title="Flashback: Royal visits of the past" alt="Flashback: Royal visits of the past" alt ="Flashback: Royal visits of the past"/>
+            <figcaption class="caption">Flashback: Royal visits of the past</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset list-item li-9 video video">
+        <figure class="figure">
+          <a role="img" href="/video/watch/22860565/australia-to-buy-new-fighter-planes/" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/ZDYWAi2V7klgBUU27P2Fyg--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTI4MTtoPTE2MDtkeD02O2R5PTE7Y3c9NjIwO2NoPTM1MztxPTcwO249MQ--/https://s.yimg.com/ea/img/-/140423/nonpremium_captions_0423_0530_nat_jets_lrg-19ldi37.jpg" title="Australia to buy new fighter planes" alt="Australia to buy new fighter planes" alt ="Australia to buy new fighter planes"/>
+            <figcaption class="caption">Australia to buy new fighter planes</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset list-item li-10 video video">
+        <figure class="figure">
+          <a role="img" href="/video/watch/22860632/did-pistorius-take-acting-lessons/" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/wWRXVykDclHYy7n7jj1qZQ--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTI4MTtoPTE2MDtkeD02O2R5PTE7Y3c9NjIwO2NoPTM1MztxPTcwO249MQ--/https://s.yimg.com/ea/img/-/140423/nonpremium_captions_0423_0530_nat_oscar_lrg-19ldivh.jpg" title="Did Pistorius take acting lessons?" alt="Did Pistorius take acting lessons?" alt ="Did Pistorius take acting lessons?"/>
+            <figcaption class="caption">Did Pistorius take acting lessons?</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset list-item li-11 last video video">
+        <figure class="figure">
+          <a role="img" href="/video/watch/22860610/ferry-death-toll-passes-100/" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/GptfBgpqu5j8Lx9S6A3phw--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTI4MTtoPTE2MDtkeD02O2R5PTE7Y3c9NjIwO2NoPTM1MztxPTcwO249MQ--/https://s.yimg.com/ea/img/-/140423/nonpremium_captions_0423_0530_nat_ferry_lrg-19ldimc.jpg" title="Ferry death toll passes 100" alt="Ferry death toll passes 100" alt ="Ferry death toll passes 100"/>
+            <figcaption class="caption">Ferry death toll passes 100</figcaption>
+          </a>
+        </figure>
+      </li>
+    </ol>
+  </div>
+  <script type="text/javascript">
+
+y7modules.push({"id":"y7module535763cc8854e","module":"carousel-scroller","contentBox":".carousel-items","boundingBox":".module-content","config":{"selectable":"true","allowLink":"true","scrollBy":1},"init":function (Y) {
+                
+                    var module = Y.one('#' + this.id),
+                    bb = module.one(this.boundingBox),
+                    cb = module.one(this.contentBox);
+
+                    this.config.contentBox = cb;
+                    this.config.boundingBox = bb;
+                    this.config.srcNode = bb;
+
+                    module.carousel = new Y.CarouselScroller(this.config);
+                    module.carousel.render();
+                    
+             }});
+
+y7rapidTrackedMods["y7module535763cc8854e"] = "carousel_video_small"; 
+
+</script>
+</section>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+<div class="y7-advertisement"><div id="box-LREC" style="height:auto"><div id="tgt-LREC"><noscript>
+<!-- SpaceID=0 robot -->
+<!-- stripScript failed --></noscript></div></div></div>        
+<nav class="module follow-us" role="menu" id="y7module5357640d4b360">
+  <header class="module-header">
+    <h2 class="heading">Follow Us</h2>
+  </header>
+  <div class="module-content">
+    <ol class="nav-set">
+      <li class="li-1 first facebook">
+        <a target="_blank" href="http://www.facebook.com/SevenNews">facebook</a>
+      </li>
+      <li class="li-2 twitter">
+        <a target="_blank" href="https://twitter.com/Y7News">twitter</a>
+      </li>
+      <li class="li-3 last mail">
+        <a target="_blank" href="http://au.news.yahoo.com/newsletter-signup/">mail</a>
+      </li>
+    </ol>
+  </div>
+  <script type="text/javascript">
+
+y7rapidTrackedMods["y7module5357640d4b360"] = "soc_follow_"; 
+
+</script>
+</nav>
+
+
+<div class="flexitabs " id="y7module5357640d4bf16">
+	<script type="text/javascript">
+
+y7modules.push({"id":"y7module5357640d4bf16","module":"flexitabs","contentBox":".flexitabs","boundingBox":".flexitabs","config":{"selectable":"true","contentClassName":"module","contentHeaderClassName":"module-header"},"init":function (Y) {
+                
+            var domTab = Y.one('#' + this.id);
+            this.config.srcNode = domTab;
+
+            var flexiTab = new Y.FlexiTabs(this.config);
+            flexiTab.render();
+            
+        }});
+
+</script>
+        
+	<section class="module multipass-most-viewed aunz-feature-collection aunz-feature-collection-j most-popular" role="region" id="y7module5357640d33c75">
+  <header class="module-header">
+    <hgroup class="hgroup">
+      <h2 class="heading">Most Viewed</h2>
+    </hgroup>
+  </header>
+  <div class="module-content">
+    <ol class="module-content asset" role="complementary">
+      <li class="asset asset-1 first">
+        <figure class="asset-figure image-">
+          <a role="img" class="img-link" href="/world/a/22859998/mh370-relatives-reject-malaysian-conclusions-on-plane/">
+            <img src="https://s.yimg.com/iu/api/res/1.2/F8dVgRYbi_JUhtkWotFw5A--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTIxMDtoPTExOTtkeD0xO2R5PTE7Y3c9NTExO2NoPTI4ODtxPTcw/https://s.yimg.com/ea/img/-/140423/952872a6748219d6e48f40c1006644d97f8ddeda-19ld9sm.jpg" alt="MH370 may have landed, not crashed: sources"/>
+          </a>
+        </figure>
+        <header class="asset-header">
+          <h4 class="heading">
+            <a href="/world/a/22859998/mh370-relatives-reject-malaysian-conclusions-on-plane/">MH370 may have landed, not crashed: sources</a>
+          </h4>
+        </header>
+        <footer class="asset-footer">
+          <span class="asset-count">165,784 read this</span>
+        </footer>
+      </li>
+      <li class="asset asset-2">
+        <figure class="asset-figure image-">
+          <a role="img" class="img-link" href="/world/a/22862406/fugitive-1981-pennsylvania-death-nabbed-texas/">
+            <img src="https://s.yimg.com/iu/api/res/1.2/2OSW4VXOp81VTFDNQ3DjrQ--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTIxMDtoPTExODtkeD0xO2R5PTE7Y3c9Mzc0O2NoPTIxMDtxPTcw/https://s.yimg.com/ea/img/-/140423/joseph_lewis_miller_inline_19ldos2-19ldp1f.jpg" alt="Fugitive in 1981 Pennsylvania death nabbed in Texas"/>
+          </a>
+        </figure>
+        <header class="asset-header">
+          <h4 class="heading">
+            <a href="/world/a/22862406/fugitive-1981-pennsylvania-death-nabbed-texas/">Fugitive in 1981 Pennsylvania death nabbed in Texas</a>
+          </h4>
+        </header>
+        <footer class="asset-footer">
+          <span class="asset-count">51,676 read this</span>
+        </footer>
+      </li>
+      <li class="asset asset-3">
+        <figure class="asset-figure image-">
+          <a role="img" class="img-link" href="/a/22865829/julia-gillard-reneged-on-deal-rudd/">
+            <img src="https://s.yimg.com/iu/api/res/1.2/KVhSLsqfQHhZscnW2oEnpw--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTIxMDtoPTExODtkeD0xO2R5PTE7Y3c9Mzc0O2NoPTIxMDtxPTcw/https://s.yimg.com/ea/img/-/140423/rudd_gillard_375_19le03t-19le043.jpg" alt="Julia Gillard reneged on deal: Rudd"/>
+          </a>
+        </figure>
+        <header class="asset-header">
+          <h4 class="heading">
+            <a href="/a/22865829/julia-gillard-reneged-on-deal-rudd/">Julia Gillard reneged on deal: Rudd</a>
+          </h4>
+        </header>
+        <footer class="asset-footer">
+          <span class="asset-count">27,658 read this</span>
+        </footer>
+      </li>
+      <li class="asset asset-4">
+        <figure class="asset-figure image-">
+          <a role="img" class="img-link" href="/world/a/22860661/ice-road-truckers-star-kidnapped-beat-las-vegas-prostitute-police/">
+            <img src="https://s.yimg.com/iu/api/res/1.2/i_3TWRIyVoF0HUJrqWLaGw--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTIxMDtoPTExODtkeD0xO2R5PTE7Y3c9Nzk3O2NoPTQ0ODtxPTcw/https://s.yimg.com/ea/img/-/140423/2014_04_22t201000z_1_cbrea3_19lek7l-19lek7p.jpg" alt="'Ice Road Truckers' star kidnapped, beat Las Vegas prostitute -police"/>
+          </a>
+        </figure>
+        <header class="asset-header">
+          <h4 class="heading">
+            <a href="/world/a/22860661/ice-road-truckers-star-kidnapped-beat-las-vegas-prostitute-police/">'Ice Road Truckers' star kidnapped, beat Las Vegas prostitute -police</a>
+          </h4>
+        </header>
+        <footer class="asset-footer">
+          <span class="asset-count">25,559 read this</span>
+        </footer>
+      </li>
+      <li class="asset asset-5">
+        <figure class="asset-figure image-">
+          <a role="img" class="img-link" href="/world/a/22864741/teen-cancer-patient-tweets-final-thumbs-up/">
+            <img src="https://s.yimg.com/iu/api/res/1.2/kIX.gsIgSUzwj2XhKhWt2w--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTIxMDtoPTExODtkeD0xO2R5PTE7Y3c9NjE5O2NoPTM0NztxPTcw/https://s.yimg.com/ea/img/-/140423/1398200878155.jpg_620x349_19ldv22-19ldv2p.jpg" alt="Teen cancer patient tweets 'final thumbs up'"/>
+          </a>
+        </figure>
+        <header class="asset-header">
+          <h4 class="heading">
+            <a href="/world/a/22864741/teen-cancer-patient-tweets-final-thumbs-up/">Teen cancer patient tweets 'final thumbs up'</a>
+          </h4>
+        </header>
+        <footer class="asset-footer">
+          <span class="asset-count">15,682 read this</span>
+        </footer>
+      </li>
+      <li class="asset asset-6">
+        <figure class="asset-figure image-">
+          <a role="img" class="img-link" href="/qld/a/22865773/police-retrace-murdered-womans-final-steps/">
+            <img src="https://s.yimg.com/iu/api/res/1.2/uiHg3NjALF20v1Fs7m_JWg--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTIxMDtoPTExODtkeD0xO2R5PTE7Y3c9Mzc0O2NoPTIxMDtxPTcw/https://s.yimg.com/ea/img/-/140423/web_still_murder4_2304_9_19le0ip-19le0it.jpg" alt="Police retrace murdered woman's final steps"/>
+          </a>
+        </figure>
+        <header class="asset-header">
+          <h4 class="heading">
+            <a href="/qld/a/22865773/police-retrace-murdered-womans-final-steps/">Police retrace murdered woman's final steps</a>
+          </h4>
+        </header>
+        <footer class="asset-footer">
+          <span class="asset-count">13,117 read this</span>
+        </footer>
+      </li>
+      <li class="asset asset-7">
+        <figure class="asset-figure image-">
+          <a role="img" class="img-link" href="/world/a/22866156/nypd-social-media-campaign-backfires/">
+            <img src="https://s.yimg.com/iu/api/res/1.2/Ou3AVZ2WwHFG__dHUbbq4w--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTIxMDtoPTExODtkeD00O2R5PTE7Y3c9NTkzO2NoPTMzMjtxPTcw/https://s.yimg.com/ea/img/-/140423/bl2b0lscaaaip3e_19le2eh-19le2g2.jpg" alt="NYPD social media campaign backfires"/>
+          </a>
+        </figure>
+        <header class="asset-header">
+          <h4 class="heading">
+            <a href="/world/a/22866156/nypd-social-media-campaign-backfires/">NYPD social media campaign backfires</a>
+          </h4>
+        </header>
+        <footer class="asset-footer">
+          <span class="asset-count">11,972 read this</span>
+        </footer>
+      </li>
+      <li class="asset asset-8">
+        <figure class="asset-figure image-">
+          <a role="img" class="img-link" href="/world/a/22860663/some-ferry-crew-acted-bravely-passengers/">
+            <img src="https://s.yimg.com/iu/api/res/1.2/FRtAm50Yr6aXkm3si0YZWw--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTIxMDtoPTExODtkeD0xO2R5PTE7Y3c9Mzc0O2NoPTIxMDtxPTcw/https://s.yimg.com/ea/img/-/140423/save_son_375_19ldnpg-19ldo1g.jpg" alt="Some ferry crew acted bravely: passengers"/>
+          </a>
+        </figure>
+        <header class="asset-header">
+          <h4 class="heading">
+            <a href="/world/a/22860663/some-ferry-crew-acted-bravely-passengers/">Some ferry crew acted bravely: passengers</a>
+          </h4>
+        </header>
+        <footer class="asset-footer">
+          <span class="asset-count">11,945 read this</span>
+        </footer>
+      </li>
+      <li class="asset asset-9">
+        <figure class="asset-figure image-">
+          <a role="img" class="img-link" href="/world/a/22860570/florida-is-ground-zero-for-sea-level-rise/">
+            <img src="https://s.yimg.com/iu/api/res/1.2/zLStmnW9EDIrdFQaeLOZug--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTIxMDtoPTExODtkeD0xO2R5PTE7Y3c9NTEwO2NoPTI4NztxPTcw/https://s.yimg.com/ea/img/-/140423/e0a9f532dcc7b1e2e582298c613772066f1c5980-19ldii4.jpg" alt="Florida is 'Ground Zero' for sea level rise"/>
+          </a>
+        </figure>
+        <header class="asset-header">
+          <h4 class="heading">
+            <a href="/world/a/22860570/florida-is-ground-zero-for-sea-level-rise/">Florida is 'Ground Zero' for sea level rise</a>
+          </h4>
+        </header>
+        <footer class="asset-footer">
+          <span class="asset-count">11,695 read this</span>
+        </footer>
+      </li>
+      <li class="asset asset-10 last">
+        <figure class="asset-figure image-">
+          <a role="img" class="img-link" href="/a/22846794/online-gun-sales-3d-printing-of-plastic-weapons-pushing-firearms-into-hands-of-criminal-underworld/">
+            <img src="https://s.yimg.com/iu/api/res/1.2/HO0HQC7VV8EWeQ9mJMz3sA--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTIxMDtoPTExODtkeD0xO2R5PTE7Y3c9Njk5O2NoPTM5MztxPTcw/https://s.yimg.com/ea/img/-/140423/5404622_5404696_16x9_700x394-19le24q.jpg" alt="Online gun sales, 3D printing of plastic weapons pushing firearms into..."/>
+          </a>
+        </figure>
+        <header class="asset-header">
+          <h4 class="heading">
+            <a href="/a/22846794/online-gun-sales-3d-printing-of-plastic-weapons-pushing-firearms-into-hands-of-criminal-underworld/">Online gun sales, 3D printing of plastic weapons pushing firearms into...</a>
+          </h4>
+        </header>
+        <footer class="asset-footer">
+          <span class="asset-count">11,361 read this</span>
+        </footer>
+      </li>
+    </ol>
+  </div>
+  <script type="text/javascript">
+
+y7rapidTrackedMods["y7module5357640d33c75"] = "main_promo_most_viewed"; 
+
+</script>
+</section>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	<section class="module aunz-feature-collection aunz-feature-collection-j" role="region" id="y7module5357640d20be4">
+  <header class="module-header">
+    <h2 class="heading">Latest</h2>
+  </header>
+  <div class="module-content">
+    <ol class="module-content module-content-1 asset" role="complementary">
+      <li class="asset asset-1 first">
+        <header class="asset-header">
+          <h4 class="heading">
+            <a href="/a/22872283/government-confirms-finance-for-royal-hobart-hospital-revamp-under-review/">Government confirms finance for Royal Hobart Hospital revamp under review</a>
+          </h4>
+        </header>
+        <footer class="asset-footer">
+          <time class="asset-timestamp">27 minutes ago</time>
+        </footer>
+      </li>
+      <li class="asset asset-2">
+        <header class="asset-header">
+          <h4 class="heading">
+            <a href="/a/22877423/teen-fined-for-speeding-while-drunk/">Teen fined for speeding while drunk</a>
+          </h4>
+        </header>
+        <footer class="asset-footer">
+          <time class="asset-timestamp">28 minutes ago</time>
+        </footer>
+      </li>
+      <li class="asset asset-3">
+        <header class="asset-header">
+          <h4 class="heading">
+            <a href="/a/22877425/sa-government-defends-woolworths-owned-hardware-stores-expansion-plan/">SA Government defends Woolworths-owned hardware store's expansion plan</a>
+          </h4>
+        </header>
+        <footer class="asset-footer">
+          <time class="asset-timestamp">29 minutes ago</time>
+        </footer>
+      </li>
+      <li class="asset asset-4">
+        <header class="asset-header">
+          <h4 class="heading">
+            <a href="/a/22877100/canberra-garbage-truck-drivers-to-strike-next-week/">Canberra garbage truck drivers to strike next week</a>
+          </h4>
+        </header>
+        <footer class="asset-footer">
+          <time class="asset-timestamp">33 minutes ago</time>
+        </footer>
+      </li>
+      <li class="asset asset-5">
+        <header class="asset-header">
+          <h4 class="heading">
+            <a href="/a/22877376/brisbanes-southside-on-measles-alert/">Brisbane's southside on measles alert</a>
+          </h4>
+        </header>
+        <footer class="asset-footer">
+          <time class="asset-timestamp">37 minutes ago</time>
+        </footer>
+      </li>
+      <li class="asset asset-6">
+        <header class="asset-header">
+          <h4 class="heading">
+            <a href="/a/22877265/elderly-man-found-in-rugged-vic-bushland/">Elderly man found in rugged Vic bushland</a>
+          </h4>
+        </header>
+        <footer class="asset-footer">
+          <time class="asset-timestamp">37 minutes ago</time>
+        </footer>
+      </li>
+      <li class="asset asset-7">
+        <header class="asset-header">
+          <h4 class="heading">
+            <a href="/a/22877340/bank-robber-denied-bail-by-magistrate/">Bank robber denied bail by magistrate</a>
+          </h4>
+        </header>
+        <footer class="asset-footer">
+          <time class="asset-timestamp">46 minutes ago</time>
+        </footer>
+      </li>
+      <li class="asset asset-8">
+        <header class="asset-header">
+          <h4 class="heading">
+            <a href="/a/22877216/qld-cannabis-boss-denied-bail/">Qld 'cannabis boss' denied bail</a>
+          </h4>
+        </header>
+        <footer class="asset-footer">
+          <time class="asset-timestamp">47 minutes ago</time>
+        </footer>
+      </li>
+      <li class="asset asset-9">
+        <header class="asset-header">
+          <h4 class="heading">
+            <a href="/a/22877186/sex-victims-mother-tells-court-of-trauma-caused-by-kylie-fiona-henry/">Sex victim's mother tells court of trauma caused by Kylie Fiona Henry</a>
+          </h4>
+        </header>
+        <footer class="asset-footer">
+          <time class="asset-timestamp">50 minutes ago</time>
+        </footer>
+      </li>
+      <li class="asset asset-10">
+        <header class="asset-header">
+          <h4 class="heading">
+            <a href="/a/22877278/footballer-turned-bikie-freed-on-bail/">Footballer turned bikie freed on bail</a>
+          </h4>
+        </header>
+        <footer class="asset-footer">
+          <time class="asset-timestamp">52 minutes ago</time>
+        </footer>
+      </li>
+    </ol>
+  </div>
+  <script type="text/javascript">
+
+y7rapidTrackedMods["y7module5357640d20be4"] = "latest_list"; 
+
+</script>
+</section>
+	
+	
+	
+	
+	
+	
+	
+	
+</div>
+
+<aside class="module sponsored-rhs" id="y7module5357640d10a3b">
+  <ol class="module-content">
+    <li class="asset has-img">
+      <figure class="asset-figure image-">
+        <a role="img" class="img-link" href="http://au.lifestyle.yahoo.com/prevention/blackmores/galleries/photo/-/22159733/top-10-stressors-to-avoid/22159745/">
+          <img src="https://s.yimg.com/iu/api/res/1.2/q6V3s9hVLzeQ7tUhMOzAzQ--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTExMDQ7aD00OTA7ZHg9MTtkeT0xO2N3PTQ0OTtjaD0yNTQ7cT05MDtuPTE-/https://s.yimg.com/ea/img/-/140325/sleepy_19j1ur3-19j1usl.jpg" alt="Top 10 life stressors to avoid"/>
+        </a>
+      </figure>
+      <header class="asset-header">
+        <h4 class="heading">
+          <a href="http://au.lifestyle.yahoo.com/prevention/blackmores/galleries/photo/-/22159733/top-10-stressors-to-avoid/22159745/">Top 10 life stressors to avoid</a>
+        </h4>
+      </header>
+      <footer class="asset-footer">
+        <span class="asset-source">Sponsored</span>
+      </footer>
+    </li>
+  </ol>
+  <script type="text/javascript">
+
+y7rapidTrackedMods["y7module5357640d10a3b"] = "main_promo_sponsored"; 
+
+</script>
+</aside>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+<section class="module mod-carousel-scroller mod-generic-scroller" role="presentation" id="y7module535763364493a">
+  <header class="header module-header">
+    <hgroup class="hgroup">
+      <h2 class="heading">Partners</h2>
+    </hgroup>
+  </header>
+  <div class="module-content module-content-1">
+    <ol class="asset-set generic-image-set carousel-items" role="complementary">
+      <li class="asset list-item li-1 first">
+        <figure class="figure">
+          <a role="img" href="http://dating.yahoo.com.au/?TrackingID=527972&amp;BannerID=1851225" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/qQF6d0HicuQxKDGfuoLdyg--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTI4MTtoPTE2MDtkeD0zMjtkeT0xO2N3PTI4MDtjaD0xNTk7cT03MDtuPTE-/https://s.yimg.com/ea/img/-/131017/kiss_195uaqc-195uaqo.jpg" title="Partner Match" alt="Partner Match" alt ="Singles online now"/>
+            <figcaption class="caption">Singles online now</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset list-item li-2">
+        <figure class="figure">
+          <a role="img" href="http://yahoo.seek.com.au//?tracking=CBP-YHO-NWS-Integration-001798" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/yknsE9FfDSoqBQsY4Mdbyw--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTI3OTtoPTE2MDtkeD0xO2R5PTE7Y3c9Mzk2O2NoPTIyNztxPTcwO249MQ--/https://s.yimg.com/ea/img/-/140206/image_employer_vs_recruiter_au_article_19f5l2o-19f5l2u.jpg" title="Seek Jobs" alt="Seek Jobs" alt ="Catch your next big break"/>
+            <figcaption class="caption">Catch your next big break</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset list-item li-3">
+        <figure class="figure">
+          <a role="img" href="http://yahoo.seeklearning.com.au/hot-jobs-2014?campaigncode=lrn:oth:yaho:TPP" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/qSGLqp8vfL60gqQf7XuyIA--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTM0MjtoPTE2MDtkeD0xO2R5PTE7Y3c9MTcxO2NoPTk4O3E9NzA7bj0x/https://s.yimg.com/ea/img/-/140320/hotjobs_march14_172x115_19il3b3-19il3b8.jpg" title="Seek Learning" alt="Seek Learning" alt ="Hot Jobs for 2014"/>
+            <figcaption class="caption">Hot Jobs for 2014</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset list-item li-4">
+        <figure class="figure">
+          <a role="img" href="http://yahoo.carsales.com.au/?rs_ref=yub" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/nvNC54C0E1xjamnQ5pPDqA--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTM0MjtoPTE2MDtkeD0xO2R5PTE7Y3c9MTcxO2NoPTk4O3E9NzA7bj0x/https://s.yimg.com/ea/img/-/140206/cs_yahoo172x115_b_19f5jph-19f5jpn.jpg" title="Carsales" alt="Carsales" alt ="Special offers on new cars"/>
+            <figcaption class="caption">Special offers on new cars</figcaption>
+          </a>
+        </figure>
+      </li>
+      <li class="asset list-item li-5 last">
+        <figure class="figure">
+          <a role="img" href="http://yahoo.realestate.com.au/buy" class="img-cont">
+            <img src="https://s.yimg.com/iu/api/res/1.2/ySxK1dg6cIVY7JoshSeu5Q--/YXBwaWQ9eXZpZGVvO2ZpPXVsY3JvcDt3PTM0MjtoPTE2MDtkeD0xO2R5PTE7Y3c9MTcxO2NoPTk4O3E9NzA7bj0x/https://s.yimg.com/ea/img/-/140313/find_your_dream_home_172x115_19i27fh-19i27fk.jpg" title="Realestate.com.au" alt="Realestate.com.au" alt ="Find your dream home"/>
+            <figcaption class="caption">Find your dream home</figcaption>
+          </a>
+        </figure>
+      </li>
+    </ol>
+  </div>
+  <script type="text/javascript">
+
+y7modules.push({"id":"y7module535763364493a","module":"carousel-scroller","contentBox":".carousel-items","boundingBox":".module-content","config":{"selectable":"true","allowLink":"true","scrollBy":1},"init":function (Y) {
+                
+                    var module = Y.one('#' + this.id),
+                    bb = module.one(this.boundingBox),
+                    cb = module.one(this.contentBox);
+
+                    this.config.contentBox = cb;
+                    this.config.boundingBox = bb;
+                    this.config.srcNode = bb;
+
+                    module.carousel = new Y.CarouselScroller(this.config);
+                    module.carousel.render();
+                    
+             }});
+
+y7rapidTrackedMods["y7module535763364493a"] = "carousel_partner"; 
+
+</script>
+</section>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+<div class="y7-advertisement"><div id="box-LREC1" style="height:auto"><div id="tgt-LREC1"><noscript><iframe src="https://au.adserver.yahoo.com/a?f=16886905&p=yahoo_mobile_au_web&l=LREC1&c=h&bg=ffffff" marginwidth=0 marginheight=0 width="300" height="250" hspace=0 vspace=0 frameborder=0 scrolling=no></iframe></noscript></div></div></div>
+
+
+
+
+
+
+
+
+
+
+        </div>
+    </div>
+</div>
+        
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      <div class="y7-advertisement"><div id="box-S" style="height:auto"><div id="tgt-S"><noscript>
+<!-- SpaceID=0 robot -->
+<!-- stripScript failed --></noscript></div></div></div>
+
+      <footer class="network-footer" id="y7-mp-network-footer">
+    <div class="top-link" id="y7_mp_footer_b2top">
+        <a href="#" class="top">
+            <div class="top-link-content">Top
+                <span class="caret"></span>
+            </div>
+        </a>
+        <script>
+            
+            y7rapidTrackedMods["y7_mp_footer_b2top"] = "backtotop_ ";
+            
+        </script>
+    </div>
+
+    
+
+    <div class="cluster">
+        <div class="row">
+            <div class="column-1-3">
+                <section class="module account footer-account" id="y708-signinup">
+    <header class="module-header">
+            <h3 class="heading">Yahoo!7 Account</h3>
+    </header>
+    <div class="module-content">
+        <ul class="account-actions">
+            <li class="account-signin">
+                                    <p>Check your mail and get the latest updates</p>
+                    <p class="sign-in"><a class="button" href="https://login.yahoo.com/config/login?.intl=au&.src=aunews-mp&.done=https%3A%2F%2Fau.news.yahoo.com%2F">Sign in</a></p>
+                    <p class="sign-up">New here? <a href="https://login.yahoo.com/config/eval_register?.intl=au&.src=aunews-mp&.done=http%3A%2F%2Fau.news.yahoo.com%2F">Sign up</a></p>
+                                </li>
+        </ul>
+    </div>
+</section>
+<script> 
+    
+y7rapidTrackedMods["y708-signinup"] = "footer_sign_in"; 
+
+
+</script>
+
+            </div>
+            
+            <div class="column-1-3">
+                
+      
+      
+      
+      <nav class="module multipass-list-nav simple-list-nav y-properties" role="region" id="y7module535763edbca06">
+  <header class="nav-header">
+    <h2 class="heading">Yahoo!7 News</h2>
+  </header>
+  <div class="module-content nav-content">
+    <ol class="simple-nav" role="navigation">
+      <li class="nav-item nav-item-1 first">
+        <a href="http://au.news.yahoo.com/latest/">
+          <span>Latest</span>
+        </a>
+      </li>
+      <li class="nav-item nav-item-2">
+        <a href="http://au.news.yahoo.com/nsw/">
+          <span>Sydney</span>
+        </a>
+      </li>
+      <li class="nav-item nav-item-3">
+        <a href="http://au.news.yahoo.com/vic/">
+          <span>Melbourne</span>
+        </a>
+      </li>
+      <li class="nav-item nav-item-4">
+        <a href="http://au.news.yahoo.com/qld/">
+          <span>Brisbane</span>
+        </a>
+      </li>
+      <li class="nav-item nav-item-5">
+        <a href="http://au.news.yahoo.com/sa/">
+          <span>Adelaide</span>
+        </a>
+      </li>
+      <li class="nav-item nav-item-6">
+        <a href="http://au.news.yahoo.com/world">
+          <span>World</span>
+        </a>
+      </li>
+      <li class="nav-item nav-item-7">
+        <a href="http://au.news.yahoo.com/entertainment">
+          <span>Entertainment</span>
+        </a>
+      </li>
+      <li class="nav-item nav-item-8">
+        <a href="http://au.news.yahoo.com/tech-news">
+          <span>Technology News</span>
+        </a>
+      </li>
+      <li class="nav-item nav-item-9">
+        <a href="http://au.news.yahoo.com/odd/">
+          <span>Odd News</span>
+        </a>
+      </li>
+      <li class="nav-item nav-item-10 last">
+        <a href="http://au.news.yahoo.com/contact/">
+          <span>Contact</span>
+        </a>
+      </li>
+    </ol>
+  </div>
+  <script type="text/javascript">
+
+y7rapidTrackedMods["y7module535763edbca06"] = "footer_property"; 
+
+</script>
+</nav>
+
+            </div>
+            <div class="column-1-3">
+                
+      
+      
+      
+      <nav class="module multipass-list-nav simple-list-nav y-network-links" role="region" id="y7module5357640d44e3c">
+  <header class="nav-header">
+    <h2 class="heading">More from Yahoo!7</h2>
+  </header>
+  <div class="module-content nav-content">
+    <ol class="simple-nav" role="navigation">
+      <li class="nav-item nav-item-1 first">
+        <a href="http://au.news.yahoo.com/">
+          <span>News</span>
+        </a>
+      </li>
+      <li class="nav-item nav-item-2">
+        <a href="http://au.tv.yahoo.com/">
+          <span>TV</span>
+        </a>
+      </li>
+      <li class="nav-item nav-item-3">
+        <a href="http://au.finance.yahoo.com/">
+          <span>Finance</span>
+        </a>
+      </li>
+      <li class="nav-item nav-item-4">
+        <a href="http://au.sports.yahoo.com/">
+          <span>Sport</span>
+        </a>
+      </li>
+      <li class="nav-item nav-item-5">
+        <a href="http://au.lifestyle.yahoo.com/">
+          <span>Lifestyle</span>
+        </a>
+      </li>
+      <li class="nav-item nav-item-6">
+        <a href="http://au.thehype.yahoo.com/">
+          <span>Entertainment</span>
+        </a>
+      </li>
+      <li class="nav-item nav-item-7">
+        <a href="http://au.games.yahoo.com/">
+          <span>Games</span>
+        </a>
+      </li>
+      <li class="nav-item nav-item-8">
+        <a href="http://au.totaltravel.yahoo.com/">
+          <span>Travel</span>
+        </a>
+      </li>
+      <li class="nav-item nav-item-9">
+        <a href="http://dating.yahoo.com.au/?TrackingID=527972&amp;BannerID=1851225">
+          <span>Dating</span>
+        </a>
+      </li>
+      <li class="nav-item nav-item-10 last">
+        <a href="http://au.yahoo.com/more/">
+          <span>All Sites</span>
+        </a>
+      </li>
+    </ol>
+  </div>
+  <div class="fb-like-wrapper">
+    <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fau.yahoo.com%2F&amp;send=false&amp;layout=button_count&amp;width=92&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=24" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:92px; height:21px;" allowTransparency="true"></iframe>
+    <p>
+      <a href="https://www.facebook.com/yahoo7">Yahoo!7 on Facebook</a>
+    </p>
+  </div>
+  <script type="text/javascript">
+
+y7rapidTrackedMods["y7module5357640d44e3c"] = "footer_network"; 
+
+</script>
+</nav>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="module footer-tools">
+        <ul>
+            <li class="view-options">
+                <div id="y7module5357640d4e265"><strong>View:</strong> <a href="/setpref?d=mobile&ref=https%3A%2F%2Fau.news.yahoo.com%2F"><span>Mobile</span></a></div><script type="text/javascript">y7rapidTrackedMods["y7module5357640d4e265"]="footer_device_select";</script>
+            </li>
+        </ul>
+    </div>
+
+    <div id="footer-links">
+        <nav class="nav simple-list-nav footer-nav" role="region" id="y7module535762ec37abf">
+  <div class="nav-content">
+    <ol class="simple-nav nav-set" role="navigation">
+      <li class="nav-item nav-item-1 first">
+        <a href="http://au.advertising.yahoo.com/" target="_blank">
+          <span>Advertising</span>
+        </a>
+      </li>
+      <li class="nav-item nav-item-2">
+        <a href="http://info.yahoo.com/privacy/au/yahoo/" target="_blank">
+          <span>Privacy</span>
+        </a>
+      </li>
+      <li class="nav-item nav-item-3">
+        <a href="http://info.yahoo.com/legal/au/yahoo/utos/en-au/" target="_blank">
+          <span>Terms</span>
+        </a>
+      </li>
+      <li class="nav-item nav-item-4 last">
+        <a href="http://help.yahoo.com/au" target="_blank">
+          <span>Help</span>
+        </a>
+      </li>
+    </ol>
+  </div>
+  <script type="text/javascript">
+
+y7rapidTrackedMods["y7module535762ec37abf"] = "footer_corporate"; 
+
+</script>
+</nav>
+      
+      
+      
+      
+
+    </div>
+
+    
+
+</footer>
+
+    </div>   
+    </div>
+    
+    
+    
+  <div class="y7-advertisement"><div id="box-RICH" style="height:auto"><div id="tgt-RICH"><noscript>
+<!-- SpaceID=0 robot -->
+<!-- stripScript failed --></noscript></div></div></div>
+  <div class="y7-advertisement"><div id="box-ANCHR" style="height:auto"><div id="tgt-ANCHR"><noscript>
+<!-- SpaceID=0 robot -->
+<!-- stripScript failed --></noscript></div></div></div>
+  <div class="y7-advertisement"><div id="box-FSRVY" style="height:auto"><div id="tgt-FSRVY"><noscript><iframe src="https://au.adserver.yahoo.com/a?f=16886905&p=yahoo_mobile_au_web&l=FSRVY&c=h&bg=ffffff" marginwidth=0 marginheight=0 width="1" height="1" hspace=0 vspace=0 frameborder=0 scrolling=no></iframe></noscript></div></div></div>
+  <div class="y7-advertisement"><div id="box-FAD" style="height:auto"><div id="tgt-FAD"><noscript><iframe src="https://au.adserver.yahoo.com/a?f=16886905&p=yahoo_mobile_au_web&l=FAD&c=h&bg=ffffff" marginwidth=0 marginheight=0 width="1" height="1" hspace=0 vspace=0 frameborder=0 scrolling=no></iframe></noscript></div></div></div>
+                  <!-- Begin comScore Tag -->
+                <script>
+                    var _comscore = _comscore || [];
+                    _comscore.push({
+                        c1: "2",
+                        c2: "7241469",
+                        c5: "16886905",
+                        c7: "https://au.news.yahoo.com/"
+                    });
+                    (function() {
+                        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+                        s.src = (document.location.protocol == "https:" ? "https://s.yimg.com/lq" : "https://s.yimg.com/d") + "/lib/3pm/cs_0.2.js";
+                        el.parentNode.insertBefore(s, el);
+                    })();
+                </script>
+                <noscript>
+                    <img src="//b.scorecardresearch.com/p?c1=2&c2=7241469&c7=https%3A%2F%2Fau.news.yahoo.com%2F&c5=16886905&cv=2.0&cj=1" />
+                </noscript>
+                <!-- End comScore Tag -->
+  <!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2012 Nielsen Online -->
+<script type="text/javascript" src="//secure-au.imrworldwide.com/v60.js">
+</script>
+<script type="text/javascript">
+var pvar = { cid: "yahoo-au", content: "0", server: 
+"secure-au" };
+var trac = nol_t(pvar);
+trac.record().post();
+</script>
+<noscript>
+<div>
+<img src="//secure-au.imrworldwide.com/cgibin/m?ci=yahoo-au&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" />
+</div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+	
+	<div class="y7-advertisement"><div id="box-RMPIX" style="height:auto"><div id="tgt-RMPIX"><noscript><iframe src="https://au.adserver.yahoo.com/a?f=16886905&p=yahoo_mobile_au_web&l=RMPIX&c=h&bg=ffffff" marginwidth=0 marginheight=0 width="1" height="1" hspace=0 vspace=0 frameborder=0 scrolling=no></iframe></noscript></div></div></div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<div class="y7-advertisement"><div id="box-FOOT9" style="height:auto"><div id="tgt-FOOT9"><noscript><iframe src="https://au.adserver.yahoo.com/a?f=16886905&p=yahoo_mobile_au_web&l=FOOT9&c=h&bg=ffffff" marginwidth=0 marginheight=0 width="1" height="1" hspace=0 vspace=0 frameborder=0 scrolling=no></iframe></noscript></div></div></div>
+	
+	<!--aunz-kampyle--><div id="kkk" data-formid="67876"></div>
+
+
+    
+<script type="text/javascript" src="https://s.yimg.com/rl/ulw/v3.0.1a/lw-base64-min.js"></script>
+<script type="text/javascript" src="https://s.yimg.com/rl/ulw/v3.0.1a/lw-geocoder-min.js"></script>
+<script type="text/javascript" src="https://s.yimg.com/rl/ulw/v3.0.1a/lw-autosuggest-min.js"></script>
+<script type="text/javascript" src="https://s.yimg.com/rl/ulw/v3.0.1a/lw-geo-min.js"></script>
+<script type="text/javascript" src="https://s.yimg.com/rl/ulw/v3.0.1a/lw-overlay-min.js"></script>
+<script type="text/javascript" src="https://s.yimg.com/rl/ulw/v3.0.1a/lw-yql-min.js"></script>
+<script type="text/javascript" src="https://s.yimg.com/rl/ulw/v3.0.1a/lw-locdropcore-min.js"></script>
+<script type="text/javascript" src="https://s.yimg.com/rl/ulw/v3.0.1a/lw-controller-min.js"></script>
+<script type="text/javascript" src="https://s.yimg.com/ao/i/mp/yui-modules/20140331_04-48-56/build/lw-view/lw-view-min.js"></script>
+<script>
+
+                var y7modules = y7modules || [];
+                y7modules.push({
+                    'module' : 'darla',
+                    'init'   : function (Y) {
+                        if (Y.Darla) {
+                            var darla = new Y.Darla();
+                        }
+                    }
+                });
+
+                </script>
+<script type="text/javascript">
+    var y7modules = y7modules || [];
+    y7modules.push({
+        'id': 'y7module-dropdown-nav',
+        'module': 'navigation-dropdown',
+        'config': {
+            // put bindargs here
+            'navSel': '.hover-parent',
+            'activeClass': 'hover',
+            'anchorSel': '> a'
+        },
+
+        'init': function (Y) {
+            // make the script tablet only, detect IS touch device
+            var isTouchDevice = function () {
+                return 'ontouchstart' in window // works on most browsers
+                || 'onmsgesturechange' in window; // works on ie10
+            };
+            if (isTouchDevice()) {
+                var navContainer = Y.one('#' + this.id);
+
+                this.config.contentBox = navContainer;
+                this.config.boundingBox = navContainer;
+                this.config.srcNode = navContainer;
+
+                navContainer.NavigationDropdown = new Y.NavigationDropdown(this.config);
+                navContainer.NavigationDropdown.render();
+            }
+        }
+    });
+</script>
+
+<script>
+        var y7modules = y7modules || [];
+        y7modules.push({
+                'id': 'y7module-9912',
+                'module': 'weather-ulw',
+                'config': {
+                        'ulwConfig': {
+                                appID: 'yahoo.aunz.mediasuite.ups',
+				ctx   : 'weather',
+				crumb     : '',
+		 		upapiExtracted  : {currentLoc : {"addr":"Sydney, New South Wales, Australia","app":"xxx","cc":"AU","city":"Sydney","conf":60,"country_conf":100,"ctry":"Australia","ctx":"global","dtime":"2014-04-23T06:56:12Z","freq":1,"id":"id_current","input":"ip","lat":-33.755500793457,"lon":150.68850708008,"lvl":0,"rad":646,"raw":"125.255.32.6","sc":"NSW","src":"spipc","state":"New South Wales","state_conf":100,"time":1398235607,"town_conf":100,"type":"physical","woe":1105779,"woetype":"town","zip_conf":0},
+                           			defaultLoc : null},
+                                locationLevel: 'addr',
+                                locale: 'en-AU',
+                                findLocation: true,
+                                minWidth: null,
+				autoComplete: false,
+                                errorCallback: null
+                        }
+                },
+                'init': function (Y) {
+
+                        this.config.boundingBox = Y.one('#' + this.id);
+                        var weatherULW = new Y.WeatherULW(this.config);
+                        weatherULW.render();
+
+                }
+        });
+                </script>
+
+<script>y7modules.push({"module":"rapid","config":{"keys":{"A_pt":"homepage","A_pn":"7News - Free Australian &amp; World News - Yahoo!7 News","A_id":"au-id-fp ","hr":"16:56"},"lt_attr":"href","client_only":0,"rapid_noclick_resp":["timt-notrack","rapidnotrack"],"spaceid":"16886905","nofollow_class":["rapidnofollow","paginate","video-menu"],"ywa":{"project_id":"1000579267015","cf":{"45":"","14":"","07":"16886905","39":"homepage","40":"yes","46":"Logged Out","21":"https:\/\/au.news.yahoo.com\/","61":"au.news.yahoo.com","64":"au.news.yahoo.com"}},"tracked_mods":[],"track_lv":true,"track_module":false,"click_only":false},"init":function (Y) {
+            if (y7rapidTrackedMods) {
+                    this.config.tracked_mods = y7rapidTrackedMods;
+            }
+ 
+	    // String for YWA CF field 43, 47 (not present unless proven otherwise)
+	    var commentsPresent = "Comments not present";
+	    var transcriptsPresent = "Video transcript not present";
+	    for (i = 0; i < y7modules.length; i++) {
+		if (y7modules[i].module === "comments") {
+			commentsPresent = "Comments present"
+		}
+		if (y7modules[i].module === "pop-over") {
+			transcriptsPresent = "Video transcript present"
+		}
+	    }
+	    this.config.ywa.cf["43"] = commentsPresent;
+	    this.config.ywa.cf["47"] = transcriptsPresent;
+	    if (y7asset && y7asset.catalogue && y7asset.catalogue != "") {
+			this.config.ywa.cf["48"] = y7asset.catalogue;
+	    }
+	    if (y7asset && y7asset.published && y7asset.published != "") {
+			this.config.ywa.cf["16"] = y7asset.published;
+	    }  
+            YAHOO.i13n.YWA_CF_MAP = {hr:8}; 
+            var ins = YAHOO.i13n.Track(this.config);
+	    //ins.submitAction("ca=1");
+            ins.init();
+    }}); </script>
+<script src="https://s.yimg.com/pv/static/lib/default-search-engine-pkg-v1.0.9.js" data-source="aunews-mp" data-spaceid="16886905" data-prompt-days="30"></script>
+
+		<script src="https://s.yimg.com/ao/i/mp/js/kampyle/02/js/k_config_s_1126267.js" async="true" defer="defer"></script>
+		
+<script type='text/javascript' src='https://s.yimg.com/zz/combo?/rq/darla/2-4-7/js/darla-secure-pre-fb-rotation-min.js&/rq/darla/2-4-7/js/logger-min.js&/rq/darla/2-4-7/js/throbber-min.js&'></script>
+<script type="text/javascript">
+DARLA_CONFIG = {servicePath:'https://au.news.yahoo.com/y7darla/php/fc.php', beaconPath:'https://au.news.yahoo.com/y7darla/php/b.php', renderPath:'https://au.news.yahoo.com/y7darla/2-4-7/html/ext-render.html', srenderPath:'https://s.yimg.com/rq/darla/2-4-7/html/ext-render-secure.html', sfbrenderPath:'https://s.yimg.com/rq/darla/2-4-7/html/ext-render-fb-secure.html', msgPath:'https://au.news.yahoo.com/y7darla/2-4-7/html/ext-msg.html',	cscPath:'https://s.yimg.com/rq/darla/2-4-7/html/csc-render.html',	version:'2-4-7', root:'y7darla', edgeRoot:'http://l.yimg.com/rq/darla/2-4-7', sedgeRoot:'https://s.yimg.com/rq/darla/2-4-7', tpbURI:''};
+</script>
+<script type="text/plain" id="fc" _ver="2-4-7">{ positions: [ { html: "<!-- SpaceID=0 robot -->\n", id: "ENCR", meta: { y: { cscHTML: "", behavior: "non_exp", adID: "#19", matchID: "#19", err: "robot", hasExternal: 0, size: "", bookID: "", serveType: "", slotID: "" } } },{ html: "<!-- SpaceID=0 robot -->\n", id: "NT1", meta: { y: { cscHTML: "", behavior: "non_exp", adID: "#19", matchID: "#19", err: "robot", hasExternal: 0, size: "", bookID: "", serveType: "", slotID: "" } } },{ html: "<!-- SpaceID=0 robot -->\n", id: "LREC", meta: { y: { cscHTML: "", behavior: "non_exp", adID: "#19", matchID: "#19", err: "robot", hasExternal: 0, size: "", bookID: "", serveType: "", slotID: "" } } },{ html: "<!-- SpaceID=0 robot -->\n", id: "LREC1", meta: { y: { cscHTML: "", behavior: "non_exp", adID: "#19", matchID: "#19", err: "robot", hasExternal: 0, size: "", bookID: "", serveType: "", slotID: "" } } },{ html: "<!-- SpaceID=0 robot -->\n", id: "S", meta: { y: { cscHTML: "", behavior: "non_exp", adID: "#19", matchID: "#19", err: "robot", hasExternal: 0, size: "", bookID: "", serveType: "", slotID: "" } } },{ html: "<!-- SpaceID=0 robot -->\n", id: "RICH", meta: { y: { cscHTML: "", behavior: "non_exp", adID: "#19", matchID: "#19", err: "robot", hasExternal: 0, size: "", bookID: "", serveType: "", slotID: "" } } },{ html: "<!-- SpaceID=0 robot -->\n", id: "ANCHR", meta: { y: { cscHTML: "", behavior: "non_exp", adID: "#19", matchID: "#19", err: "robot", hasExternal: 0, size: "", bookID: "", serveType: "", slotID: "" } } },{ html: "<!-- SpaceID=0 robot -->\n", id: "FSRVY", meta: { y: { cscHTML: "", behavior: "non_exp", adID: "#19", matchID: "#19", err: "robot", hasExternal: 0, size: "", bookID: "", serveType: "", slotID: "" } } },{ html: "<!-- SpaceID=0 robot -->\n", id: "FAD", meta: { y: { cscHTML: "", behavior: "non_exp", adID: "#19", matchID: "#19", err: "robot", hasExternal: 0, size: "", bookID: "", serveType: "", slotID: "" } } },{ html: "<!-- SpaceID=0 robot -->\n", id: "RMPIX", meta: { y: { cscHTML: "", behavior: "non_exp", adID: "#19", matchID: "#19", err: "robot", hasExternal: 0, size: "", bookID: "", serveType: "", slotID: "" } } },{ html: "<!-- SpaceID=0 robot -->\n", id: "FOOT9", meta: { y: { cscHTML: "", behavior: "non_exp", adID: "#19", matchID: "#19", err: "robot", hasExternal: 0, size: "", bookID: "", serveType: "", slotID: "" } } } ], meta: { y: { pageEndHTML: "", pos_list: [ "ENCR","NT1","LREC","LREC1","S","RICH","ANCHR","FSRVY","FAD","RMPIX","FOOT9" ], spaceID: "16886905", host: "au.news.yahoo.com", lookupTime: "2", k2_uri: "", fac_rt: "", pvid: "n2h98xt7IbsUWF9.5Su_MAFVff8gBlNXZAwACJfR" } } } </script>
+        <script type="text/javascript">
+
+        if (window.DARLA && window.DARLA_CONFIG) {
+            DARLA_CONFIG.positions = {"DEFAULT":{"maxW":3000,"maxH":3000,"z":3000,"tgt":"_blank","en":"utf-8","type":"dynamic","bg":"transparent","dest":"tgt-FC","clean":"box-FC"},"ENCR":{"w":950,"h":90,"pos":"ENCR","clean":"box-ENCR","dest":"tgt-ENCR"},"NT1":{"w":950,"h":60,"pos":"NT1","clean":"box-NT1","dest":"tgt-NT1"},"LREC":{"w":300,"h":267,"pos":"LREC","clean":"box-LREC","dest":"tgt-LREC"},"LREC1":{"w":300,"h":250,"pos":"LREC1","clean":"box-LREC1","dest":"tgt-LREC1"},"S":{"w":728,"h":90,"pos":"S","clean":"box-S","dest":"tgt-S"},"RICH":{"w":1,"h":1,"pos":"RICH","clean":"box-RICH","dest":"tgt-RICH"},"ANCHR":{"w":1,"h":1,"pos":"ANCHR","clean":"box-ANCHR","dest":"tgt-ANCHR"},"FSRVY":{"w":1,"h":1,"pos":"FSRVY","clean":"box-FSRVY","dest":"tgt-FSRVY"},"FAD":{"w":1,"h":1,"pos":"FAD","clean":"box-FAD","dest":"tgt-FAD"},"RMPIX":{"w":1,"h":1,"pos":"RMPIX","clean":"box-RMPIX","dest":"tgt-RMPIX"},"FOOT9":{"w":1,"h":1,"pos":"FOOT9","clean":"box-FOOT9","dest":"tgt-FOOT9"}};
+                         DARLA_CONFIG.events   =
+              {
+                "AdRotation":
+                        {
+                                mpid: '673',
+                                mpnm: 'yahoo_mobile_au_web',
+                                locale: 'us',
+                                npv:    0,
+                                dm:     0,
+                                sp:     16886905,
+                                ps:     "ENCR,NT1,LREC,S,ANCHR",
+                                secure: 1,
+                                mps:     "",
+                                lvl:  -3
+                        },
+                "manualAdRotate":
+                        {
+                             name: "manualAdRotate"
+                        }
+              };
+        }
+
+        //DARLA_CONFIG.rotation =  2000;
+        DARLA_CONFIG.onBeforeStartRequest  = function(bef_evt)
+        {
+           if (bef_evt.action == "manualAdRotate") {
+               bef_evt.returnValue = -1;
+               DARLA.event("AdRotation", { sa: { "LREC": "300x250"},  filter: "no_expandable;ajax_cert_expandable;exp_iframe_expandable;"});
+           }
+        }
+        DARLA_CONFIG.onFinishPosRender = function(position, renderTime)
+        {
+                                                 //Responsive ad code change
+                        if (position == "SPON1") {
+                          var e=document.getElementById("tgt-"+position);
+                          e.style.width="100%"; //This is for iframe element
+                          e.parentNode.style.width="100%";  //For it's parent div
+        }
+        }
+        //Needed to check darla process. Darla can only do one thing at a time. If not it will break
+        DARLA.load_section = function(event_nm, time)
+        {
+            var f   = function()
+            {
+                if (!DARLA.inProgress()) {
+                    DARLA.event(event_nm);
+                    f = event_nm = time = null;
+                } else {
+                    setTimeout(f, 500);
+                }
+            }
+            setTimeout(f, time);        //Can be modified or removed, if required.
+        }
+
+        if (DARLA.config(DARLA_CONFIG)==  "OK") {       //Call after divs are in the page
+            DARLA.render();
+        }
+
+        </script>
+        
+<script type="text/javascript" src="https://s.yimg.com/zz/combo?yui-s:3.9.1/build/anim-base/anim-base-min.js&yui-s:3.9.1/build/anim-color/anim-color-min.js&yui-s:3.9.1/build/anim-curve/anim-curve-min.js&yui-s:3.9.1/build/anim-easing/anim-easing-min.js&yui-s:3.9.1/build/anim-node-plugin/anim-node-plugin-min.js&yui-s:3.9.1/build/anim-scroll/anim-scroll-min.js&yui-s:3.9.1/build/anim-xy/anim-xy-min.js&yui-s:3.9.1/build/event-custom-base/event-custom-base-min.js&yui-s:3.9.1/build/event-custom-complex/event-custom-complex-min.js&yui-s:3.9.1/build/io-base/io-base-min.js&yui-s:3.9.1/build/io-form/io-form-min.js&yui-s:3.9.1/build/io-queue/io-queue-min.js&yui-s:3.9.1/build/io-upload-iframe/io-upload-iframe-min.js&yui-s:3.9.1/build/io-xdr/io-xdr-min.js&yui-s:3.9.1/build/json-parse/json-parse-min.js&yui-s:3.9.1/build/transition/transition-min.js&ao/i/mp/properties/multipass/js/navigation/navigation-dropdown.s5493.js&ao/i/mp/yui-modules/20140417_01-39-10/build/carousel-scroller/carousel-scroller-min.js&ao/i/mp/yui-modules/20140417_01-39-10/build/accordion/accordion-min.js&ao/i/mp/yui-modules/20140417_01-39-10/build/weather-ulw/weather-ulw-min.js&ao/i/mp/yui-modules/20140417_01-39-10/build/flexitabs/flexitabs-min.js&ao/i/mp/yui-modules/20140417_01-39-10/build/news-ticker/news-ticker-min.js&ao/i/mp/properties/multipass/js/ywa/ywa.s5611.js"></script>
+<script type="text/javascript" src="https://s.yimg.com/ss/rapid-2.9.4.js"></script>
+<script>
+
+y7data.yuiConfig = {"lang":"en-AU","combine":true,"comboBase":"https://s.yimg.com/zz/combo?","root":"yui:3.9.1/build/","groups":{"multipass":{"combine":true,"root":"ao/i/mp","modules":{"modernizer":{"path":"ao/i/mp/properties/multipass/js/modernizr/modernizr-base.s5230.js"},"darla":{"path":"ao/i/mp/properties/multipass/js/darla/darla.s5261.js"},"pop-over":{"requires":["event","event-gestures","jsonp","node","widget","node-event-delegate","event-key"],"path":"ao/i/mp/yui-modules/20140417_01-39-10/build/pop-over/pop-over-min.js"},"miniassist":{"requires":["base","get","node","event-focus","plugin","array-extras"],"fullpath":"https://s.yimg.com/lq/lib/s7/miniassist-yui3-201009101433.js"},"mail-count":{"requires":["event","jsonp","jsonp-url","node","widget"],"path":"ao/i/mp/yui-modules/20140417_01-39-10/build/mail-count/mail-count-min.js"},"mail-preview":{"requires":["event","handlebars","jsonp","jsonp-url","node","widget"],"path":"ao/i/mp/yui-modules/20140417_01-39-10/build/mail-preview/mail-preview-min.js"},"vertical-search":{"requires":["widget","node","event","node-event-simulate"],"path":"ao/i/mp/yui-modules/20140417_01-39-10/build/vertical-search/vertical-search-min.js"},"nav-dropdown":{"requires":["widget","node","event","event-gestures"],"path":"ao/i/mp/properties/multipass/js/navigation/navigation-dropdown.s5493.js"},"carousel-scroller":{"requires":["anim","event","event-delegate","node","node-event-delegate","widget"],"path":"ao/i/mp/yui-modules/20140417_01-39-10/build/carousel-scroller/carousel-scroller-min.js"},"accordion":{"requires":["widget","node","event"],"path":"ao/i/mp/yui-modules/20140417_01-39-10/build/accordion/accordion-min.js"},"weather-ulw":{"requires":["node","event","io","lw-view","json-parse"],"path":"ao/i/mp/yui-modules/20140417_01-39-10/build/weather-ulw/weather-ulw-min.js"},"flexitabs":{"requires":["event","node","widget"],"path":"ao/i/mp/yui-modules/20140417_01-39-10/build/flexitabs/flexitabs-min.js"},"news-ticker":{"requires":["event","node","widget","transition"],"path":"ao/i/mp/yui-modules/20140417_01-39-10/build/news-ticker/news-ticker-min.js"},"rapid":{"fullpath":"https://s.yimg.com/ss/rapid-2.9.4.js"},"ywa-interface":{"requires":["base","event-custom"],"path":"ao/i/mp/properties/multipass/js/ywa/ywa.s5611.js"}}}}};
+
+
+
+        // Collate JS Dependencies
+	var y7jsDeps = y7jsDeps || [];
+
+	(function () {
+            var i = 0,
+                modsLen = y7modules.length || 0;
+
+            y7jsDeps = ['event-base'];
+
+            for (i; i < modsLen; i += 1) {
+                    y7jsDeps.push(y7modules[i].module);
+            }
+	}());
+
+         YUI(y7data.yuiConfig).use(y7jsDeps, function (Y) {
+            Y.on('domready', function () {
+                // Modules init
+                Y.Array.each(y7modules, function (item, index, array) {
+                        item.init(Y);
+                });
+            });
+	});
+
+        
+
+</script>
+    
+  </body>
+</html>
+
+<!-- aunews-mp:aunews-mp-au:0:Success -->
+<!-- pres41.news.aue.yahoo.com uncompressed/chunked Wed Apr 23 16:56:12 EST 2014 -->
