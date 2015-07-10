@@ -2,9 +2,9 @@
 
     rstream replicates a fileset at a source machine to multiple target
     destinations with updates in near realtime. It is optimised for 
-    distributing incremental changes to files (e.g log files).
+    distributing incremental changes to files (e.g. log files).
 
-    It's a bit like tail -f and rsync commbined (although it cannot allude to
+    It's a bit like tail -f and rsync combined (although it cannot allude to
     any of the efficiencies that rsync offers).
 
     A rstream instance needs to run at source and destination. The instance
